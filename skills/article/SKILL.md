@@ -12,7 +12,7 @@ description: Build reproducible research packages for personal blog articles. Us
 3. Read `references/source-policy.md`, `references/analysis-policy.md`, and `references/package-contract.md`.
 4. Source trusted API or official statistical data first. Use exploratory sources only when logged.
 5. Spawn `data-scout` first when tool-driven subagents are available. Load `references/subagents/data-scout.md` and pass the topic, package path, user-provided sources, source policy, and today's date. Wait for its result before download or analysis.
-6. Spawn `data-downloader` next when raw data should be fetched. Load `references/subagents/data-downloader.md` and pass the package path, `sources/source-log.md`, any credential names available in the environment, and today's date. Wait for its result before analysis.
+6. Spawn `data-downloader` next when raw data should be fetched. Load `references/subagents/data-downloader.md` and pass the package path, `sources/source-log.md`, available Chrome extension status, any credential names available in the environment, and today's date. Wait for its result before analysis.
 7. Then use the remaining subagents when available:
    - `analysis-checker`: load `references/subagents/analysis-checker.md`; check data, methods, and claims before writing findings.
    - `editor-outline`: load `references/subagents/editor-outline.md`; turn findings into `writing/outline.md`.
