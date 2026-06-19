@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article"
+  short_description: "Build reproducible article research packages"
+  default_prompt: "Use the article skill to research a topic and create a reproducible package."
