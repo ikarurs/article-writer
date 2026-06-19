@@ -6,9 +6,11 @@ sources:
 commands_run:
   - "skills/article/scripts/new_article.py \"impact of Bundestag discussions on inflation\" --date 2026-06-19"
   - "data-scout subagent acquisition pass, access date 2026-06-19"
+  - "data-downloader subagent Chrome-backed retrieval attempt, access date 2026-06-19"
 agent_notes:
   subagent_mode: "multi_agent_v1"
   data_scout_agent: "019ee066-c1f5-7c50-951c-a037b6da2b27"
+  data_downloader_agent: "Chrome extension route attempted; downloads blocked by Chrome-side UI/extension errors. See data/raw/README.md."
 reproducibility:
   status: "draft"
-  notes: "Data acquisition scouting complete; raw files not downloaded yet."
+  notes: "Data acquisition scouting complete; Chrome-backed raw data download attempted on 2026-06-19 but no raw files were saved because Chrome reported client/UI blocking."

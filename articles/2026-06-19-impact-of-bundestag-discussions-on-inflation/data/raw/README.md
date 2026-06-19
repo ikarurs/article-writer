@@ -1,8 +1,39 @@
 # Raw Data Retrieval Notes
 
 Access date for scouting: 2026-06-19
+Download attempt date: 2026-06-19
 
-No raw data files were downloaded in this scouting pass because the user requested edits only to `sources/source-log.md` and this retrieval-notes file.
+No raw data files were downloaded in this Chrome-backed retrieval pass. The Codex Chrome Extension connection was available, but direct API navigations and page-context retries were blocked by Chrome-side UI/extension failures before responses could be saved.
+
+## Chrome Retrieval Attempt Log
+
+1. Bundestag/DIP plenary metadata
+   - Attempted URL: `https://search.dip.bundestag.de/api/v1/plenarprotokoll`
+   - Parameters: none; this was a no-key availability check before any keyed retrieval.
+   - Intended output: `bundestag_dip_plenarprotokoll_metadata_20260619.jsonl`
+   - Result: blocked. Chrome reported `net::ERR_BLOCKED_BY_CLIENT`.
+   - Next retrieval step: retry through Chrome after dismissing the blocking Chrome/extension UI, with `apikey=<DIP key>` if a DIP API key is available in the user's browser/session. Do not store the key.
+
+2. ECB Data Portal HICP Germany annual rate
+   - Attempted URL: `https://data-api.ecb.europa.eu/service/data/HICP/M.DE.N.000000.4D0.ANR?startPeriod=1996-12&format=csvdata`
+   - Parameters: dataset `HICP`; key `M.DE.N.000000.4D0.ANR`; `startPeriod=1996-12`; `format=csvdata`.
+   - Intended output: `ecb_hicp_de_total_annual_rate_monthly_2026-06-19.csv`
+   - Result: blocked. Direct Chrome navigation reported `net::ERR_BLOCKED_BY_CLIENT`; retry from the ECB Data Portal page was blocked by Chrome with `another extension UI is open on this page`.
+   - Next retrieval step: retry through Chrome once the extension UI is dismissed. This source should not require credentials.
+
+3. Destatis GENESIS national CPI table 61111-0002
+   - Attempted URL: `https://www-genesis.destatis.de/genesisWS/rest/2020/data/tablefile?username=GAST&password=GAST&name=61111-0002&area=all&format=ffcsv&compress=false`
+   - Parameters: table `61111-0002`; area `all`; flat-file CSV; uncompressed; public `GAST` check only.
+   - Intended output: `destatis_genesis_61111_0002_cpi_monthly_2026-06-19.csv`
+   - Result: blocked. Chrome reported `another extension UI is open on this page` during direct navigation and during retry from the GENESIS table page.
+   - Next retrieval step: retry through Chrome after dismissing the blocking UI. If `GAST` is not accepted, use an available GENESIS account in Chrome or manual table export, but do not prompt for or store credentials.
+
+4. Zenodo CPP-BT record metadata and derived Bundestag corpus files
+   - Attempted metadata URL: `https://zenodo.org/api/records/15462956`
+   - Attempted from page: `https://zenodo.org/records/15462956`
+   - Intended metadata output: `zenodo_cpp_bt_record_15462956_2026-06-19.json`
+   - Result: blocked. Chrome reported `another extension UI is open on this page`.
+   - Next retrieval step: retry metadata first through Chrome; then inspect file sizes and download only the needed archive(s), likely `CPP-BT_2025-05-24_DE_CSV_Reden_Gesamt.zip` and/or `CPP-BT_2025-05-24_DE_CSV_Reden_Metadaten.zip`, if storage is acceptable.
 
 ## Recommended Retrieval Order
 
