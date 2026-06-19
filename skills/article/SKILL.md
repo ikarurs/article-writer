@@ -12,9 +12,9 @@ description: Build reproducible research packages for personal blog articles. Us
 3. Read `references/source-policy.md`, `references/analysis-policy.md`, and `references/package-contract.md`.
 4. Source trusted API or official statistical data first. Use exploratory sources only when logged.
 5. Use tool-driven subagents when available:
-   - `data-scout`: find sources and fill `sources/source-log.md`.
-   - `analysis-checker`: check data, methods, and claims before writing findings.
-   - `editor-outline`: turn findings into `writing/outline.md`.
+   - `data-scout`: load `references/subagents/data-scout.md`; find sources and fill `sources/source-log.md`.
+   - `analysis-checker`: load `references/subagents/analysis-checker.md`; check data, methods, and claims before writing findings.
+   - `editor-outline`: load `references/subagents/editor-outline.md`; turn findings into `writing/outline.md`.
 6. If subagents are unavailable, do those phases sequentially and record the fallback in `article.yaml`.
 7. Keep the package reproducible: raw data or retrieval notes, processed data, runnable `analysis/analysis.py`, outputs, findings, outline, and notes.
 8. Run `scripts/check_package.py <article-package>`.
@@ -32,3 +32,9 @@ description: Build reproducible research packages for personal blog articles. Us
 
 - `skills/article/scripts/new_article.py "<topic>"`: create the article package skeleton.
 - `skills/article/scripts/check_package.py <path>`: fail if required files or directories are missing.
+
+## Subagent Specs
+
+- `references/subagents/data-scout.md`: source discovery and extraction plan.
+- `references/subagents/analysis-checker.md`: method and claim sanity check.
+- `references/subagents/editor-outline.md`: article outline and notes pass.
