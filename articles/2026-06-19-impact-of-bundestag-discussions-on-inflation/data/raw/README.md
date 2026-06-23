@@ -2,8 +2,26 @@
 
 Access date for scouting: 2026-06-19
 Download attempt date: 2026-06-19
+Route-aware download date: 2026-06-23
 
-No raw data files were downloaded in this Chrome-backed retrieval pass. The Codex Chrome Extension connection was available, but direct API navigations and page-context retries were blocked by Chrome-side UI/extension failures before responses could be saved.
+The first Chrome-backed retrieval pass saved no raw data because direct API navigations and page-context retries were blocked by Chrome-side UI/extension failures. A later route-aware pass saved public API files without Chrome where browser state was unnecessary.
+
+## Raw Files Saved
+
+- `ecb_hicp_de_total_annual_rate_monthly_2026-06-23.csv`
+  - Source: `https://data-api.ecb.europa.eu/service/data/HICP/M.DE.N.000000.4D0.ANR?startPeriod=1996-12&format=csvdata`
+  - Size: 108203 bytes
+  - SHA-256: `4afb861b366a162562238b18387582bf1b8e825d246f98d1d5c7cd58187d9bdd`
+- `zenodo_cpp_bt_record_15462956_2026-06-23.json`
+  - Source: `https://zenodo.org/api/records/15462956`
+  - Size: 18027 bytes
+  - SHA-256: `8a61abefe807533b192105d44ccd3fc02a67a4b96f003b05416a379bb2a19c60`
+
+## Still Blocked Or Deferred
+
+- DIP API: requires `apikey=<DIP key>`; no key was available, and no raw response was saved.
+- Destatis GENESIS `61111-0002`: guest endpoint returned an HTML app shell rather than CSV; use a GENESIS account or browser export.
+- CPP-BT corpus ZIPs: not downloaded yet because the speech archive is large; Zenodo metadata is saved so the exact file URLs and sizes are reproducible.
 
 ## Chrome Retrieval Attempt Log
 

@@ -25,6 +25,7 @@ Topic: impact of Bundestag discussions on inflation
   - `data/raw/bundestag_dip_plenarprotokoll_metadata_YYYYMMDD.jsonl`
   - `data/raw/bundestag_dip_plenarprotokoll_text_YYYYMMDD.jsonl`
 - Download attempt, 2026-06-19: blocked. The data-downloader attempted `https://search.dip.bundestag.de/api/v1/plenarprotokoll` through the Codex Chrome Extension as a no-key availability check. Chrome reported `net::ERR_BLOCKED_BY_CLIENT`; no raw file was saved. Retrieval notes are in `data/raw/README.md`.
+- Route-aware attempt, 2026-06-23: still blocked pending `apikey=<DIP key>`. No raw DIP response was saved.
 - Suggested processed filenames:
   - `data/processed/bundestag_plenary_protocols.parquet`
   - `data/processed/bundestag_inflation_mentions_by_sitting.csv`
@@ -45,6 +46,7 @@ Topic: impact of Bundestag discussions on inflation
 - License/storage notes: Destatis states GENESIS-Online is free of charge and usable under Data Licence Germany - Attribution - Version 2.0. Store raw CSV response and cite Destatis.
 - Suggested raw filename: `data/raw/destatis_genesis_61111_0002_cpi_monthly_2026-06-19.csv`
 - Download attempt, 2026-06-19: blocked. The data-downloader attempted the GENESIS tablefile endpoint through the Codex Chrome Extension with parameters `username=GAST`, `password=GAST`, `name=61111-0002`, `area=all`, `format=ffcsv`, `compress=false`, first directly and then from the GENESIS table page. Chrome reported `another extension UI is open on this page`; no raw file was saved. Retrieval notes are in `data/raw/README.md`.
+- Route-aware attempt, 2026-06-23: stdlib/native download reached the GENESIS endpoint with `username=GAST`, `password=GAST`, `name=61111-0002`, `area=all`, `format=ffcsv`, `compress=false`, but the response was an HTML app shell rather than CSV. The false raw file was deleted; use a GENESIS account or browser export.
 - Suggested processed filename: `data/processed/germany_cpi_monthly.csv`
 - Caveats/missing-data risks: API behavior changed with the new GENESIS interface; local unauthenticated test returned the web app shell rather than data. Use a registered GENESIS account or manual flat-file export if the API route does not return CSV. CPI revisions and base-year changes must be logged.
 
@@ -61,6 +63,7 @@ Topic: impact of Bundestag discussions on inflation
 - License/storage notes: ECB Data Portal public API; underlying source is Eurostat. Store CSV raw response with access date and preserve metadata columns.
 - Suggested raw filename: `data/raw/ecb_hicp_de_total_annual_rate_monthly_2026-06-19.csv`
 - Download attempt, 2026-06-19: blocked. The data-downloader attempted `https://data-api.ecb.europa.eu/service/data/HICP/M.DE.N.000000.4D0.ANR?startPeriod=1996-12&format=csvdata` through the Codex Chrome Extension. Direct navigation returned `net::ERR_BLOCKED_BY_CLIENT`; retry from the ECB Data Portal page was blocked by Chrome with `another extension UI is open on this page`. No raw file was saved. Retrieval notes are in `data/raw/README.md`.
+- Route-aware download, 2026-06-23: saved `data/raw/ecb_hicp_de_total_annual_rate_monthly_2026-06-23.csv` from the public ECB CSV API. Size: 108203 bytes. SHA-256: `4afb861b366a162562238b18387582bf1b8e825d246f98d1d5c7cd58187d9bdd`.
 - Suggested processed filename: `data/processed/germany_hicp_monthly.csv`
 - Caveats/missing-data risks: HICP is not identical to the national CPI; use explicitly as harmonised inflation, not as a silent substitute. The old ECB `ICP` dataset was discontinued/replaced in February 2026; use `HICP`, not `ICP`.
 
@@ -82,6 +85,7 @@ Topic: impact of Bundestag discussions on inflation
   - `data/raw/cpp_bt_2025-05-24_speeches.zip`
   - `data/raw/cpp_bt_2025-05-24_speech_metadata.zip`
 - Download attempt, 2026-06-19: blocked. The data-downloader attempted Zenodo API metadata `https://zenodo.org/api/records/15462956` through the Codex Chrome Extension, including a retry from `https://zenodo.org/records/15462956`. Chrome reported `another extension UI is open on this page`; no raw metadata or ZIP archive was saved. Retrieval notes are in `data/raw/README.md`.
+- Route-aware download, 2026-06-23: saved `data/raw/zenodo_cpp_bt_record_15462956_2026-06-23.json` from the public Zenodo API. Size: 18027 bytes. SHA-256: `8a61abefe807533b192105d44ccd3fc02a67a4b96f003b05416a379bb2a19c60`. Large corpus ZIPs were not downloaded yet.
 - Suggested processed filename: `data/processed/cpp_bt_inflation_mentions_by_sitting.csv`
 - Caveats/missing-data risks: not an official Bundestag publication; snapshot stops at 2025-05-24 and will miss later sittings unless updated via pipeline/API. Derived segmentation may encode parser assumptions; consult codebook before using speaker-level fields.
 

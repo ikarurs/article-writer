@@ -33,6 +33,7 @@ description: Build reproducible research packages for personal blog articles. Us
 
 - `skills/article/scripts/new_article.py "<topic>"`: create the article package skeleton.
 - `skills/article/scripts/check_package.py <path>`: fail if required files or directories are missing.
+- `skills/article/scripts/download_url.py <url> <output>`: save public API/download URLs and print bytes plus SHA-256.
 
 ## Subagent Specs
 
