@@ -25,13 +25,7 @@ When the user calls `\article <topic>` or asks to use the article skill:
 
 ## Subagents
 
-Use tool-driven subagents when available:
-
-- `data-scout`: find and document sources.
-- `analysis-checker`: sanity-check data, methods, and claims.
-- `editor-outline`: turn findings into a blog-ready outline.
-
-If subagents are unavailable, perform the same phases sequentially and record the fallback in `article.yaml`.
+Follow `skills/article/SKILL.md` for the current subagent order and fallback behavior.
 
 ## Git Hygiene
 

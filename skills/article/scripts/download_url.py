@@ -29,12 +29,7 @@ def main() -> int:
     parser.add_argument("output")
     parser.add_argument("--header", action="append", type=parse_header, default=[])
     parser.add_argument("--timeout", type=float, default=60.0)
-    parser.add_argument("--self-test", action="store_true")
     args = parser.parse_args()
-
-    if args.self_test:
-        assert parse_header("Accept=text/csv") == ("Accept", "text/csv")
-        return 0
 
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -67,10 +62,6 @@ def main() -> int:
         request = urllib.request.Request(args.url, headers=dict(args.header))
         try:
             with urllib.request.urlopen(request, timeout=args.timeout) as response:
-                status = getattr(response, "status", 200)
-                if status < 200 or status >= 300:
-                    print(f"error: HTTP {status}", file=sys.stderr)
-                    return 1
                 data = response.read()
         except urllib.error.HTTPError as error:
             print(f"error: HTTP {error.code} {error.reason}", file=sys.stderr)

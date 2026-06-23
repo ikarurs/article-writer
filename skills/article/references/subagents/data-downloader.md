@@ -6,7 +6,6 @@ Download raw data identified by `data-scout`. Work after scouting and before ana
 
 - article package path;
 - `sources/source-log.md`;
-- available Chrome extension status;
 - available credential names, not secret values;
 - today's date for download logging.
 
