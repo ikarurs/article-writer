@@ -9,10 +9,14 @@ commands_run:
   - "data-downloader subagent Chrome-backed retrieval attempt, access date 2026-06-19"
   - "skills/article/scripts/download_url.py ECB HICP CSV -> data/raw/ecb_hicp_de_total_annual_rate_monthly_2026-06-23.csv"
   - "skills/article/scripts/download_url.py Zenodo CPP-BT metadata -> data/raw/zenodo_cpp_bt_record_15462956_2026-06-23.json"
+  - "analysis-proposer local pass -> analysis/proposals.md"
+  - "analysis-judge local pass -> analysis/judgments.md and analysis/selected-analysis.md"
 agent_notes:
   subagent_mode: "multi_agent_v1"
   data_scout_agent: "019ee066-c1f5-7c50-951c-a037b6da2b27"
   data_downloader_agent: "Chrome extension route attempted; downloads blocked by Chrome-side UI/extension errors. Route-aware downloader then saved public ECB and Zenodo sources. See data/raw/README.md."
+  analysis_proposer: "local/current GPT model"
+  analysis_judge: "local/internal; OpenRouter skipped because OPENROUTER_API_KEY was not available"
 reproducibility:
   status: "draft"
-  notes: "Data acquisition scouting complete; route-aware raw download saved ECB HICP CSV and Zenodo CPP-BT metadata on 2026-06-23. DIP requires an API key; Destatis guest endpoint returned an HTML app shell, not CSV."
+  notes: "Data acquisition scouting complete; route-aware raw download saved ECB HICP CSV and Zenodo CPP-BT metadata on 2026-06-23. Analysis proposals and local judgment added. DIP requires an API key; Destatis guest endpoint returned an HTML app shell, not CSV."

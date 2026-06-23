@@ -74,6 +74,9 @@ if __name__ == "__main__":
     main()
 """,
     )
+    write(package / "analysis" / "proposals.md", "# Analysis Proposals\n\n")
+    write(package / "analysis" / "judgments.md", "# Analysis Judgments\n\n")
+    write(package / "analysis" / "selected-analysis.md", "# Selected Analysis Plan\n\n")
     write(package / "outputs" / "findings.md", "# Findings\n\n")
     write(package / "writing" / "outline.md", "# Outline\n\n")
     write(package / "writing" / "notes.md", "# Notes\n\n")
