@@ -1,0 +1,27 @@
+topic: "War, anticipation, energy shock, and German voting"
+date: "2026-08-11"
+package: "articles/2026-08-11-war-anticipation-energy-shock-and-german-voting"
+spatial_unit: "municipality (Kreis acceptable only as a documented fallback)"
+sources:
+  - "Official Schleswig-Holstein 2017/2022 Landtag precinct results, 2022 municipality key, and 2018/2023 local-election results"
+  - "Official Brandenburg 2019/2024 Landtag municipality aggregates"
+  - "BKG VG250 municipality geometry and UBA PRTR refinery coordinates"
+  - "WSI Report 92 published panel aggregates"
+  - "GLES catalogue and documented waves (microdata blocked by login)"
+  - "Tankerkönig historical MTS-K archive (blocked by verified onboarding and terms)"
+  - "Konc et al. (2026), CESifo Working Paper 12887"
+  - "Gregor and Haucap (2025), CESifo Working Paper 12214"
+  - "Kirchner (2026), SSRN 6542238"
+commands_run:
+  - "skills/article/scripts/new_article.py"
+  - "skills/article/scripts/download_url.py for public raw files"
+  - "uv pip install --native-tls matplotlib geopandas statsmodels"
+  - "uv pip install --native-tls spur-python scpc-python"
+  - "analysis/analysis.py"
+agent_notes:
+  subagent_mode: "article-skill data scout, analysis proposer/judge, and checker used"
+  scope_decision: "Municipality panels are the empirical core; Bundesland and constituency totals are context only"
+  spatial_skill: "Update attempt failed on a local certificate error; the installed spatial-analysis instructions were used. No regression is run without a price first stage."
+reproducibility:
+  status: "spatial-analysis-and-spur-complete-pending-final-check"
+  notes: "Raw hashes and exact URLs are recorded. One command recreates municipality CSVs, coverage tables, SPUR/SCPC results, and PNG maps. Historical local fuel prices and GLES microdata remain access-blocked."

@@ -1,0 +1,26 @@
+election,measure,source_total,recomputed_total,difference,units,excluded_units,validation_basis
+Lower Saxony Landtag 2017,eligible,6098379,6098379,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,voters,3848865,3848865,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,valid,3827850,3827850,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,SPD,1413846,1413846,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,CDU,1287191,1287191,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,Greens,334131,334131,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,FDP,287957,287957,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,AfD,235853,235853,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2017,Left,177118,177118,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,eligible,6064738,6064738,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,voters,3657967,3657967,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,valid,3623886,3623886,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,SPD,1211447,1211447,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,CDU,1017304,1017304,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,Greens,526940,526940,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,FDP,170303,170303,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,AfD,396844,396844,0,87,0,Independent official statewide final-result report LW/000.pdf
+Lower Saxony Landtag 2022,Left,98586,98586,0,87,0,Independent official statewide final-result report LW/000.pdf
+Berlin Abgeordnetenhaus 2023 repeat,SPD list-vote share (pct),18.4,18.394380,-0.005620,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,CDU list-vote share (pct),28.2,28.231214,0.031214,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,Greens list-vote share (pct),18.4,18.390886,-0.009114,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,FDP list-vote share (pct),4.6,4.642221,0.042221,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,AfD list-vote share (pct),9.1,9.089237,-0.010763,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,Left list-vote share (pct),12.2,12.204093,0.004093,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp
+Berlin Abgeordnetenhaus 2023 repeat,turnout (pct),62.9,62.898803,-0.001197,3764,0,All ordinary and postal rows; official percentage rounded to 0.1 pp

@@ -1,0 +1,8 @@
+geopandas==1.1.4
+matplotlib==3.11.1
+openpyxl
+pandas
+Pillow
+shapely==2.1.2
+scpc-python==0.1.2
+spur-python==0.1.1

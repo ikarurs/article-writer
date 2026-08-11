@@ -1,0 +1,6 @@
+date,period_label,phase,measure,party,percent,sample_n,sample_description,source
+2021-07-01,July 2021,Pre-war,Vote intention,AfD,11.0,4531,WSI labour-force online quota panel; published weighted percentage,"Hoevermann (2023), WSI Report 92, Figure 1, report p. 5"
+2021-10-01,October 2021,Pre-war,Actual Bundestag second vote,AfD,9.0,4464,WSI labour-force online quota panel; published weighted percentage,"Hoevermann (2023), WSI Report 92, Figure 1, report p. 5"
+2022-01-01,January 2022,Pre-war,Vote intention,AfD,12.0,4696,WSI labour-force online quota panel; published weighted percentage,"Hoevermann (2023), WSI Report 92, Figure 1, report p. 5"
+2022-11-01,November 2022,Anticipation/high-price,Vote intention,AfD,16.0,3748,WSI labour-force online quota panel; published weighted percentage,"Hoevermann (2023), WSI Report 92, Figure 1, report p. 5"
+2023-07-01,July 2023,Realized supply break,Vote intention,AfD,23.0,3727,WSI labour-force online quota panel; published weighted percentage,"Hoevermann (2023), WSI Report 92, Figure 1, report p. 5"

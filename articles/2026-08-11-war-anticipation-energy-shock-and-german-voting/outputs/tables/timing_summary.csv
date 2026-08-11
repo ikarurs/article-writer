@@ -1,0 +1,8 @@
+phase,observation,geography,outcome,value_or_change,interpretation_limit
+Pre-war,July 2021,Germany (WSI labour-force panel),Vote intention: AfD,11.0%,Published aggregate; no local price exposure and no respondent transitions
+Pre-war,October 2021,Germany (WSI labour-force panel),Actual Bundestag second vote: AfD,9.0%,Published aggregate; no local price exposure and no respondent transitions
+Pre-war,January 2022,Germany (WSI labour-force panel),Vote intention: AfD,12.0%,Published aggregate; no local price exposure and no respondent transitions
+Anticipation/high-price,November 2022,Germany (WSI labour-force panel),Vote intention: AfD,16.0%,Published aggregate; no local price exposure and no respondent transitions
+Realized supply break,July 2023,Germany (WSI labour-force panel),Vote intention: AfD,23.0%,Published aggregate; no local price exposure and no respondent transitions
+Anticipation/high-price,"Lower Saxony Landtag, 9 October 2022",87 constituencies,"AfD second-vote share change, 2017–2022",median 4.75 pp; range -1.89 to 9.50,Five-year election change; many concurrent political forces
+Realized supply break,"Berlin repeat election, 12 February 2023",Berlin aggregate,"AfD list-vote share change, 2021–2023",approximately 1.09 pp,Court-ordered repeat after administrative failures; rounded 2021 baseline

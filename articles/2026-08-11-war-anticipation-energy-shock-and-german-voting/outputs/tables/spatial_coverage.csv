@@ -1,0 +1,4 @@
+analysis,unit,matched_units,coverage,main_limit
+Schleswig-Holstein Landtag 2017-2022,stable precinct IDs aggregated to municipality,1097,94.00% of 2017 eligible voters,2017 rows without a stable 2022 precinct ID are excluded
+Schleswig-Holstein local 2018-2023,municipality,1074,SPD: 343 ran both; CDU: 457 ran both; Greens: 105 ran both; FDP: 91 ran both; AfD: 5 ran both; Left: 17 ran both,party comparisons require candidature in both elections
+Brandenburg Landtag 2019-2024,municipality,409,409 municipalities common to both elections and matched to BKG geometry,four municipality keys changed between elections; distance to PCK is not a local price shock

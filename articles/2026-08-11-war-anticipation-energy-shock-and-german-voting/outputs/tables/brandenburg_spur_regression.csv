@@ -1,0 +1,3 @@
+branch,selected_by_10pct_rule,coefficient,scpc_se,ci95_low,ci95_high,n,scpc_q,scpc_avc,interpretation_limit
+levels,false,0.5562041459017746,0.7699213295653345,-1.8801368901545816,2.992545181958131,409,8,0.03,Exploratory spatial association; representative-point refinery distance is not a measured price shock
+transformed,true,-3.608069389347465,2.0299776658274835,-10.529318353759397,3.313179575064468,409,8,0.03,Exploratory spatial association; representative-point refinery distance is not a measured price shock

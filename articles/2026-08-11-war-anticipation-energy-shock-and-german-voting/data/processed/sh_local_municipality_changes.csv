@@ -1,0 +1,1075 @@
+ags,municipality,SPD_ran_both,SPD_2018_pct,SPD_2023_pct,SPD_change_pp,CDU_ran_both,CDU_2018_pct,CDU_2023_pct,CDU_change_pp,Greens_ran_both,Greens_2018_pct,Greens_2023_pct,Greens_change_pp,FDP_ran_both,FDP_2018_pct,FDP_2023_pct,FDP_change_pp,AfD_ran_both,AfD_2018_pct,AfD_2023_pct,AfD_change_pp,Left_ran_both,Left_2018_pct,Left_2023_pct,Left_change_pp,turnout_2018_pct,turnout_2023_pct,turnout_change_pp
+01001000,"Flensburg, Stadt",true,18.236295,13.511640,-4.724655,true,19.357106,19.149091,-0.208014,true,18.820744,23.607969,4.787225,true,7.719908,5.666642,-2.053266,false,,,,true,7.475771,4.134131,-3.341640,35.563018,35.739236,0.176218
+01002000,"Kiel, Landeshauptstadt",true,29.853408,21.982267,-7.871141,true,23.538846,22.946392,-0.592454,true,20.429794,27.129963,6.700169,true,6.464855,4.509504,-1.955350,true,5.936585,5.983042,0.046457,true,7.219686,4.851393,-2.368294,45.802052,45.968850,0.166799
+01003000,"Lübeck, Hansestadt",true,27.615189,22.967950,-4.647239,true,24.743839,23.902097,-0.841742,true,15.399812,22.587839,7.188027,true,4.162202,5.648362,1.486160,true,5.072998,8.581247,3.508249,true,4.851996,3.122239,-1.729757,34.289373,41.561475,7.272103
+01004000,"Neumünster, Stadt",true,27.363140,25.064293,-2.298847,true,34.031879,29.293769,-4.738110,true,16.365493,12.716123,-3.649370,true,5.851796,7.529179,1.677383,false,,,,true,4.257870,2.528190,-1.729680,35.142430,40.031621,4.889191
+01051001,Albersdorf,true,17.460317,21.174612,3.714294,true,47.619048,39.030814,-8.588234,false,,,,true,11.085509,10.297603,-0.787906,false,,,,false,,,,48.665511,48.635579,-0.029933
+01051002,Arkebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.077844,72.375691,11.297846
+01051003,Averlak,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.360656,55.859375,7.498719
+01051004,Bargenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.391645,56.538462,6.146817
+01051005,Barkenholm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.594595,74.838710,5.244115
+01051006,Barlt,true,22.559433,20.259481,-2.299952,true,30.601922,33.233533,2.631611,false,,,,false,,,,false,,,,false,,,,60.476190,62.157810,1.681620
+01051010,Brickeln,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,44.444444,54.651163,10.206718
+01051011,"Brunsbüttel, Stadt",true,30.993442,24.729320,-6.264122,true,33.422395,34.928540,1.506146,true,11.027447,9.787787,-1.239660,true,18.217148,17.994803,-0.222345,false,,,,false,,,,39.289720,45.596700,6.306980
+01051012,Buchholz,false,,,,true,43.435213,40.406754,-3.028459,false,,,,false,,,,false,,,,false,,,,53.010626,55.416192,2.405566
+01051013,Büsum,true,27.882636,24.586078,-3.296558,true,38.675360,42.691828,4.016468,false,,,,false,,,,false,,,,false,,,,51.685134,51.122544,-0.562589
+01051014,Büsumer Deichhausen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.687316,60.493827,6.806512
+01051015,Bunsoh,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.355283,60.670732,4.315448
+01051016,Burg (Dithmarschen),true,13.664015,9.448644,-4.215371,true,33.996256,33.548244,-0.448013,false,,,,true,14.225550,12.761227,-1.464323,false,,,,false,,,,45.647258,48.121547,2.474289
+01051017,Busenwurth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.060729,55.555556,0.494827
+01051019,Dellstedt,false,,,,true,55.770514,55.237515,-0.532998,false,,,,false,,,,false,,,,false,,,,54.501608,57.500000,2.998392
+01051020,Delve,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.060359,56.006006,4.945647
+01051021,Diekhusen-Fahrstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.885813,56.706282,9.820469
+01051022,Dingen,true,100.000000,65.244957,-34.755043,false,,,,false,,,,false,,,,false,,,,false,,,,53.018868,68.421053,15.402185
+01051023,Dörpling,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.814229,46.753247,-2.060982
+01051024,Eddelak,false,,,,true,40.967839,42.813285,1.845446,false,,,,false,,,,false,,,,false,,,,53.034301,55.975924,2.941624
+01051026,Eggstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.015267,53.463855,-4.551412
+01051027,Elpersbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.161507,64.494681,4.333173
+01051028,Epenwöhrden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.434783,52.395672,-3.039110
+01051030,Fedderingen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.288136,59.583333,-2.704802
+01051032,Frestedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.862876,65.923567,7.060691
+01051034,Friedrichskoog,true,28.676471,33.105023,4.428552,true,39.880952,28.701892,-11.179061,false,,,,false,,,,false,,,,false,,,,53.129221,55.906977,2.777756
+01051035,Gaushorn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.666667,52.317881,-6.348786
+01051036,Glüsing,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.707071,75.000000,4.292929
+01051037,Großenrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.511057,55.582524,-0.928532
+01051038,Groven,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,39.189189,48.780488,9.591299
+01051039,Gudendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.538700,68.436578,5.897878
+01051043,Hedwigenkoog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.613636,71.502591,3.888954
+01051044,"Heide, Stadt",true,28.138138,19.516990,-8.621149,true,40.615616,40.929514,0.313899,false,,,,true,11.801802,10.039315,-1.762487,false,,,,true,9.714715,5.939343,-3.775372,38.611221,41.869148,3.257927
+01051045,Hellschen-Heringsand-Unterschaar,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.716418,64.233577,7.517159
+01051046,Helse,true,58.014832,38.927244,-19.087588,false,,,,false,,,,false,,,,false,,,,false,,,,50.211566,57.402235,7.190669
+01051047,Hemme,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.808511,44.083527,-2.724984
+01051048,Hemmingstedt,true,16.260658,18.565022,2.304365,true,24.695493,31.210762,6.515269,false,,,,false,,,,false,,,,false,,,,51.694552,54.062101,2.367550
+01051049,Hennstedt,false,,,,true,31.222707,45.768535,14.545828,false,,,,true,44.382692,54.231465,9.848773,false,,,,false,,,,54.556575,58.084507,3.527932
+01051051,Hochdonn,true,38.537387,43.400713,4.863326,true,55.464256,56.599287,1.135030,false,,,,false,,,,false,,,,false,,,,50.514403,54.855372,4.340969
+01051053,Hollingstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.846154,53.639847,-0.206307
+01051054,Immenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.238095,59.340659,-10.897436
+01051057,Kaiser-Wilhelm-Koog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.585859,63.750000,5.164141
+01051058,Karolinenkoog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.200000,63.200000,4.000000
+01051060,Kleve,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.857143,65.168539,10.311396
+01051061,Krempel,true,56.904070,58.679707,1.775637,false,,,,false,,,,false,,,,false,,,,false,,,,62.571977,55.513308,-7.058669
+01051062,Kronprinzenkoog,false,,,,true,37.568413,7.335223,-30.233190,false,,,,false,,,,false,,,,false,,,,67.388167,69.359331,1.971164
+01051063,Krumstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.834101,66.666667,8.832565
+01051064,Kuden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.895161,58.045977,-3.849184
+01051065,Lehe,true,34.764151,42.899787,8.135636,false,,,,false,,,,false,,,,false,,,,false,,,,49.405405,54.989154,5.583749
+01051067,Lieth,true,46.826347,39.154013,-7.672334,true,53.173653,60.845987,7.672334,false,,,,false,,,,false,,,,false,,,,53.932584,62.898551,8.965966
+01051068,Linden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.196906,63.971631,3.774725
+01051069,Lohe-Rickelshof,true,29.034861,31.314576,2.279715,true,23.095546,18.025751,-5.069794,false,,,,false,,,,false,,,,false,,,,60.307517,61.240751,0.933234
+01051071,Lunden,true,48.302001,29.311475,-18.990526,true,29.169193,27.803279,-1.365915,false,,,,false,,,,false,,,,false,,,,39.027877,37.981118,-1.046759
+01051072,"Marne, Stadt",true,21.763602,13.449740,-8.313862,true,34.307156,30.533270,-3.773886,false,,,,true,19.565800,33.482775,13.916975,false,,,,true,4.690432,4.200094,-0.490337,43.436214,47.972702,4.536488
+01051073,Marnerdeich,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.153846,60.060060,13.906214
+01051074,"Meldorf, Stadt",true,27.796149,24.188050,-3.608099,true,29.974713,30.540104,0.565391,false,,,,true,9.531220,8.074646,-1.456574,false,,,,true,9.706283,8.056702,-1.649581,48.001332,51.728130,3.726797
+01051075,Neuenkirchen,true,46.973838,32.409972,-14.563866,false,,,,false,,,,false,,,,false,,,,false,,,,58.404908,58.221681,-0.183227
+01051076,Neufeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.893360,60.038241,11.144881
+01051077,Neufelderkoog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.990291,78.301887,11.311596
+01051078,Nindorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.314136,65.631692,5.317556
+01051079,Norddeich,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.867052,54.347826,3.480774
+01051080,Norderheistedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.196721,62.385321,4.188600
+01051081,Norderwöhrden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.617021,58.767773,5.150751
+01051082,Nordhastedt,true,24.338320,29.287305,4.948985,true,50.028769,53.006682,2.977913,false,,,,false,,,,false,,,,false,,,,55.310110,61.033884,5.723773
+01051083,Odderade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.602837,63.214286,-2.388551
+01051084,Oesterdeichstrich,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,45.089286,45.887446,0.798160
+01051085,Offenbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.946429,68.246445,5.300017
+01051086,Osterrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.325843,68.333333,4.007491
+01051087,Ostrohe,false,,,,true,29.153727,37.423780,8.270054,false,,,,false,,,,false,,,,false,,,,59.113300,64.230769,5.117469
+01051088,Pahlen,false,,,,true,38.191882,52.631579,14.439697,false,,,,false,,,,false,,,,false,,,,55.958549,61.967546,6.008996
+01051089,Quickborn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.285714,60.248447,5.962733
+01051090,Ramhusen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.000000,60.465116,10.465116
+01051092,Rehm-Flehde-Bargen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.357143,56.129032,0.771889
+01051093,Reinsbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.307263,60.060060,4.752797
+01051096,Sankt Annen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.158672,65.891473,-1.267199
+01051097,Sankt Michaelisdonn,true,23.878727,18.850234,-5.028493,true,45.652719,42.215643,-3.437076,false,,,,false,,,,false,,,,false,,,,51.233722,51.374916,0.141194
+01051098,Sarzbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.649351,58.740157,8.090807
+01051099,Schafstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.178672,62.410072,1.231400
+01051100,Schalkholz,false,,,,true,44.311854,40.995261,-3.316593,false,,,,false,,,,false,,,,false,,,,58.498024,58.007812,-0.490211
+01051102,Schlichting,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.216495,64.734300,7.517805
+01051103,Schmedeswurth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,78.000000,76.470588,-1.529412
+01051105,Schülp,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.969529,59.942363,8.972834
+01051107,Stelle-Wittenwurth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.546448,48.275862,-2.270586
+01051108,Strübbel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,77.647059,71.590909,-6.056150
+01051109,Süderdeich,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,45.614035,53.030303,7.416268
+01051110,Süderhastedt,false,,,,true,55.429748,53.633952,-1.795796,false,,,,false,,,,false,,,,false,,,,61.645963,60.501567,-1.144395
+01051113,Wöhrden,false,,,,true,44.867725,40.446304,-4.421421,false,,,,false,,,,false,,,,false,,,,54.084507,57.788018,3.703511
+01051114,Tellingstedt,true,6.396028,13.321492,6.925464,true,46.962617,57.223209,10.260592,false,,,,false,,,,false,,,,false,,,,56.795225,56.678540,-0.116685
+01051117,Tielenhemme,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.913043,71.428571,-2.484472
+01051118,Trennewurth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.534884,55.607477,-3.927407
+01051119,Volsemenhusen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.027397,61.619718,10.592321
+01051121,Warwerort,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.046512,63.677130,-2.369382
+01051122,Weddingstedt,true,23.467697,22.767785,-0.699913,false,,,,false,,,,false,,,,false,,,,false,,,,50.698396,55.000000,4.301604
+01051125,Welmbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.692521,56.104651,5.412130
+01051126,Wennbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,75.324675,80.303030,4.978355
+01051127,"Wesselburen, Stadt",true,33.193630,27.957371,-5.236258,true,35.875943,37.619893,1.743950,false,,,,true,10.645432,9.307282,-1.338149,false,,,,false,,,,36.985294,38.485370,1.500076
+01051128,Wesselburener Deichhausen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.824742,69.607843,8.783101
+01051129,Wesselburenerkoog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.555556,52.666667,-2.888889
+01051130,Wesseln,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.569536,65.012831,0.443295
+01051131,Westerborstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.250000,81.521739,5.271739
+01051132,Westerdeichstrich,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,44.201910,48.168250,3.966340
+01051133,Wiemerstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,75.362319,74.803150,-0.559169
+01051134,Windbergen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.282209,62.998405,4.716197
+01051135,Wolmersdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.714286,72.727273,2.012987
+01051136,Wrohm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,49.072513,56.372549,7.300036
+01051137,Nordermeldorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.140351,58.587786,2.447435
+01051138,Tensbüttel-Röst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.022059,55.855856,3.833797
+01051139,Süderdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.754386,66.784452,5.030066
+01051140,Oesterwurth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.545455,61.061947,6.516492
+01051141,Süderheistedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.620087,55.454545,2.834458
+01053002,Alt Mölln,true,8.275221,20.639372,12.364151,false,,,,false,,,,false,,,,false,,,,false,,,,55.712271,54.017857,-1.694414
+01053003,Aumühle,true,14.152740,13.115119,-1.037620,true,24.307172,30.817190,6.510018,true,20.774275,24.404364,3.630089,false,,,,false,,,,false,,,,63.471698,62.538462,-0.933237
+01053004,Bäk,false,,,,true,81.040892,89.029255,7.988363,false,,,,false,,,,false,,,,false,,,,63.623978,57.980900,-5.643078
+01053005,Bälau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.228856,61.658031,7.429175
+01053006,Basedow,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.623932,54.657293,3.033362
+01053007,Basthorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.258427,70.029674,1.771247
+01053008,Behlendorf,false,,,,true,52.631579,51.568785,-1.062794,false,,,,false,,,,false,,,,false,,,,72.897196,76.900585,4.003389
+01053009,Berkenthin,true,53.807684,41.208531,-12.599153,false,,,,false,,,,false,,,,false,,,,false,,,,43.143025,49.801700,6.658674
+01053010,Besenthal,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.056338,78.947368,2.891030
+01053011,Bliestorf,true,39.666091,32.593458,-7.072633,false,,,,false,,,,false,,,,false,,,,false,,,,61.859583,71.119843,9.260260
+01053012,Börnsen,true,46.405094,65.518639,19.113544,false,,,,true,51.068200,34.481361,-16.586839,false,,,,false,,,,false,,,,47.882567,50.795721,2.913154
+01053013,Borstorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.722433,79.927007,9.204574
+01053014,Breitenfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.874214,59.642857,-0.231357
+01053015,Bröthen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.640625,61.176471,4.535846
+01053016,Brunsmark,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.000000,67.647059,-4.352941
+01053017,Brunstorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.616438,56.666667,-3.949772
+01053018,Buchholz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,82.828283,85.929648,3.101365
+01053019,Buchhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.379310,54.411765,-6.967546
+01053020,Büchen,true,36.040253,22.994361,-13.045892,true,26.070676,28.142623,2.071947,false,,,,false,,,,false,,,,false,,,,49.398839,56.755218,7.356379
+01053021,Dahmker,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,77.777778,78.102190,0.324412
+01053022,Dalldorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.892256,61.409396,5.517140
+01053023,Dassendorf,true,17.447331,26.132837,8.685506,true,12.926979,18.249534,5.322556,false,,,,false,,,,false,,,,false,,,,63.377746,62.811709,-0.566036
+01053024,Düchelsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.955224,62.595420,3.640196
+01053025,Duvensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.864865,78.289474,13.424609
+01053026,Einhaus,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.768293,65.088757,-1.679535
+01053027,Elmenhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,45.631068,51.176471,5.545403
+01053028,Escheburg,true,25.214253,17.841601,-7.372652,true,23.770862,25.674500,1.903638,true,23.229590,17.536989,-5.692601,false,,,,false,,,,false,,,,54.685855,54.397923,-0.287932
+01053029,Fitzen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.448718,57.993730,2.545012
+01053031,Fuhlenhagen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.944282,66.257669,7.313387
+01053032,"Geesthacht, Stadt",true,32.297705,28.240791,-4.056914,true,29.932761,33.760730,3.827969,true,16.554602,16.331631,-0.222971,true,8.741016,7.291101,-1.449915,false,,,,false,,,,36.253926,37.739864,1.485937
+01053033,Giesensdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.031250,58.196721,1.165471
+01053034,Göldenitz,false,,,,true,55.014749,64.029851,9.015101,false,,,,false,,,,false,,,,false,,,,79.896907,79.292929,-0.603978
+01053036,Grabau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.550173,72.483221,2.933048
+01053037,Grambek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.039604,72.182254,1.142650
+01053038,Grinau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,43.122677,51.538462,8.415785
+01053039,Groß Boden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.176471,86.263736,15.087266
+01053040,Groß Disnack,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.216216,73.134328,6.918112
+01053041,Groß Grönau,true,49.153763,46.202910,-2.950853,true,41.591646,46.581622,4.989977,false,,,,true,9.254591,7.215467,-2.039124,false,,,,false,,,,66.849051,64.097497,-2.751554
+01053042,Groß Pampau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.079365,66.176471,1.097106
+01053043,Groß Sarau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.006502,63.536585,8.530083
+01053044,Groß Schenkenberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.555066,72.258065,9.702998
+01053045,Grove,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,85.714286,81.659389,-4.054897
+01053046,Gudow,true,19.661484,18.476783,-1.184701,true,27.553631,36.370701,8.817070,true,5.550089,3.749757,-1.800331,false,,,,false,,,,false,,,,55.123675,54.374159,-0.749516
+01053047,Gülzow,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.878093,55.805243,-7.072850
+01053048,Güster,true,10.952146,7.268113,-3.684033,true,20.325604,16.128288,-4.197316,false,,,,true,7.498767,5.514536,-1.984230,false,,,,false,,,,60.711111,62.080825,1.369714
+01053049,Hamfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.845433,67.064439,9.219006
+01053050,Hamwarde,true,51.112163,39.239374,-11.872789,true,48.887837,60.760626,11.872789,false,,,,false,,,,false,,,,false,,,,58.215297,65.652174,7.436876
+01053051,Harmsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.200000,72.400000,5.200000
+01053052,Havekost,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.900662,70.322581,5.421918
+01053053,Hohenhorn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.490385,70.187793,13.697409
+01053054,Hollenbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.344086,61.038961,9.694875
+01053056,Hornbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.448276,57.894737,4.446461
+01053057,Horst,false,,,,true,39.264706,37.662338,-1.602368,false,,,,false,,,,false,,,,false,,,,75.376884,71.689498,-3.687387
+01053058,Juliusburg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.333333,64.743590,7.410256
+01053059,Kankelau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,82.558140,78.142077,-4.416063
+01053060,Kasseburg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.750000,76.239669,7.489669
+01053061,Kastorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.950907,62.026612,4.075705
+01053062,Kittlitz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.454976,67.965368,3.510392
+01053064,Klein Pampau,true,38.937409,20.617864,-18.319545,false,,,,false,,,,false,,,,false,,,,false,,,,60.727969,63.401109,2.673140
+01053066,Klein Zecher,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.932039,62.621359,-6.310680
+01053067,Klempau,false,,,,true,51.905059,43.836478,-8.068581,false,,,,false,,,,false,,,,false,,,,70.441459,73.684211,3.242752
+01053068,Klinkrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.914761,64.644351,3.729591
+01053069,Koberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.079027,56.076135,-0.002893
+01053070,Köthel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.677419,67.692308,8.014888
+01053071,Kollow,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.469388,60.665362,-2.804026
+01053072,Kröppelshagen-Fahrendorf,true,18.684945,5.315871,-13.369075,true,30.439198,42.449923,12.010725,false,,,,false,,,,false,,,,false,,,,60.498562,65.057915,4.559353
+01053073,Krüzen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.743590,62.500000,-2.243590
+01053075,Krummesse,true,23.275862,26.835805,3.559943,true,25.468516,35.929962,10.461447,false,,,,false,,,,false,,,,false,,,,63.707946,68.118081,4.410136
+01053076,Kuddewörde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.736292,59.951652,13.215359
+01053077,Kühsen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.677419,62.162162,-7.515257
+01053078,Kulpin,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.510638,66.666667,8.156028
+01053079,Labenz,true,50.693241,58.302029,7.608788,true,46.880416,37.565740,-9.314676,false,,,,false,,,,false,,,,false,,,,65.625000,70.491803,4.866803
+01053080,Langenlehsten,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.420290,71.212121,11.791831
+01053081,Lankau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.467866,62.500000,0.032134
+01053082,Lanze,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.285714,64.049587,-0.236128
+01053083,"Lauenburg/Elbe, Stadt",true,28.999093,27.109974,-1.889118,true,30.662232,40.025575,9.363344,true,11.460538,11.029412,-0.431126,false,,,,false,,,,false,,,,36.644544,34.937238,-1.707305
+01053084,Lehmrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.173913,60.965795,8.791882
+01053085,Linau,false,,,,true,100.000000,100.000000,0.000000,false,,,,false,,,,false,,,,false,,,,45.845552,52.615992,6.770440
+01053086,Lüchow,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.294606,55.241935,-14.052670
+01053087,Lütau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.312292,58.203800,1.891507
+01053088,Mechow,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,82.692308,85.849057,3.156749
+01053089,Möhnsen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.453744,75.348837,13.895093
+01053090,"Mölln, Stadt",true,25.440725,24.183757,-1.256967,true,34.772764,34.667760,-0.105004,true,20.297590,18.326497,-1.971093,true,6.614912,7.251846,0.636934,false,,,,true,4.657933,4.298605,-0.359328,40.394846,39.549532,-0.845314
+01053091,Mühlenrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.758389,63.636364,-0.122026
+01053092,Müssen,true,24.989874,17.444152,-7.545722,false,,,,false,,,,false,,,,false,,,,false,,,,58.361019,58.977035,0.616017
+01053093,Mustin,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.396825,72.652389,7.255563
+01053094,Niendorf bei Berkenthin,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.248408,78.658537,5.410129
+01053095,Niendorf/Stecknitz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.225577,69.771529,-1.454048
+01053096,Nusse,true,23.333333,21.821561,-1.511772,true,54.773663,55.985130,1.211468,false,,,,true,21.893004,22.193309,0.300304,false,,,,false,,,,53.227633,53.632479,0.404846
+01053097,Panten,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.368794,47.678571,-5.690223
+01053098,Pogeez,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.797980,60.246914,5.448934
+01053099,Poggensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.415584,61.290323,1.874738
+01053100,"Ratzeburg, Stadt",true,18.442545,14.975200,-3.467345,true,31.433998,26.440290,-4.993708,true,15.422602,16.978253,1.555650,true,4.539411,6.486074,1.946663,false,,,,false,,,,44.100453,45.619413,1.518960
+01053101,Ritzerau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.518519,59.073359,0.554841
+01053103,Rondeshagen,false,,,,true,39.126306,31.143430,-7.982876,false,,,,false,,,,false,,,,false,,,,60.235641,58.887172,-1.348469
+01053104,Roseburg,true,51.566081,31.982314,-19.583767,false,,,,false,,,,false,,,,false,,,,false,,,,61.290323,66.524520,5.234198
+01053106,Sahms,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.757576,61.538462,5.780886
+01053107,Salem,false,,,,false,,,,true,16.397516,19.647771,3.250256,false,,,,false,,,,false,,,,70.377734,78.330020,7.952286
+01053108,Sandesneben,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.195682,58.955717,3.760036
+01053109,Schiphorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.000000,64.021164,-3.978836
+01053110,Schmilau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.947368,64.107884,1.160515
+01053111,Schnakenbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.049180,56.562923,4.513743
+01053112,Schönberg,false,,,,true,53.971429,36.064815,-17.906614,false,,,,false,,,,false,,,,false,,,,52.238806,57.792755,5.553949
+01053113,Schretstaken,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.494407,63.157895,5.663488
+01053114,Schürensöhlen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,90.579710,67.361111,-23.218599
+01053115,Schulendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.288660,69.973190,-6.315469
+01053116,"Schwarzenbek, Stadt",true,28.593904,21.827411,-6.766492,true,30.462144,32.253026,1.790883,true,16.892822,19.679813,2.786991,true,9.852507,7.750879,-2.101629,false,,,,false,,,,40.888365,40.306834,-0.581531
+01053117,Seedorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.659193,64.859002,3.199809
+01053118,Siebenbäumen,true,36.107711,30.106184,-6.001528,true,34.088127,32.354778,-1.733349,false,,,,false,,,,false,,,,false,,,,70.178926,68.379447,-1.799480
+01053119,Siebeneichen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,83.035714,82.716049,-0.319665
+01053120,Sierksrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.366013,52.547771,4.181758
+01053121,Sirksfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.151515,58.029197,-7.122318
+01053122,Steinhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.190083,65.180467,2.990384
+01053123,Sterley,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.603774,50.194049,-6.409724
+01053124,Stubben,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.343284,68.562874,-2.780409
+01053125,Talkau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.207675,55.889145,-0.318529
+01053126,Tramm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.313916,70.103093,2.789177
+01053127,Walksfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.428571,64.571429,-6.857143
+01053128,Wangelau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.666667,59.659091,-7.007576
+01053129,Wentorf bei Hamburg,true,19.700041,15.616771,-4.083269,true,37.089582,35.466883,-1.622700,true,34.089988,27.405307,-6.684681,true,9.120389,7.534940,-1.585449,false,,,,false,,,,47.004867,45.864248,-1.140619
+01053130,Wentorf (Amt Sandesneben),false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.695925,52.969502,-9.726422
+01053131,Wiershop,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.428571,82.278481,10.849910
+01053132,Witzeeze,false,,,,true,52.873031,33.103184,-19.769847,false,,,,false,,,,false,,,,false,,,,58.068966,63.506494,5.437528
+01053133,Wohltorf,true,11.975393,14.228650,2.253257,false,,,,true,33.506494,28.002755,-5.503739,true,14.408749,23.732782,9.324033,false,,,,false,,,,61.471640,62.243365,0.771725
+01053134,Woltersdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.612903,54.545455,2.932551
+01053135,Worth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.517241,67.605634,2.088392
+01053136,Ziethen,false,,,,true,29.704868,37.255563,7.550695,false,,,,false,,,,false,,,,false,,,,57.302118,64.270386,6.968268
+01054001,Achtrup,false,,,,true,24.414881,24.152033,-0.262848,false,,,,false,,,,false,,,,false,,,,57.831325,57.098765,-0.732560
+01054002,Ahrenshöft,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.348416,63.963964,0.615548
+01054003,Ahrenviöl,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.542373,58.810069,6.267696
+01054004,Ahrenviölfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.848485,69.945355,5.096870
+01054005,Alkersum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.604520,48.909657,-10.694862
+01054006,Almdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,47.252747,51.685393,4.432646
+01054007,Arlewatt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.020478,65.845070,7.824593
+01054009,Aventoft,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.035176,59.562842,2.527666
+01054010,Bargum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.546169,62.759924,4.213755
+01054011,Behrendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.702128,63.419913,1.717786
+01054012,Bohmstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.111821,55.993930,0.882109
+01054013,Bondelum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.633803,64.625850,8.992048
+01054014,Bordelum,false,,,,true,45.548833,50.527831,4.978998,false,,,,false,,,,false,,,,false,,,,55.516014,62.470588,6.954574
+01054015,Borgsum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.014085,66.545455,-2.468630
+01054016,Bosbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.777778,62.189055,-0.588723
+01054017,Braderup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.035842,65.827338,5.791496
+01054018,Bramstedtlund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.563536,59.322034,0.758498
+01054019,"Bredstedt, Stadt",true,18.519647,14.326499,-4.193148,true,29.515687,24.552297,-4.963390,false,,,,false,,,,false,,,,false,,,,42.083525,47.077409,4.993885
+01054020,Breklum,true,16.141323,18.268251,2.126928,true,26.723242,28.217317,1.494075,false,,,,false,,,,false,,,,false,,,,53.113553,55.817694,2.704141
+01054022,Dagebüll,false,,,,true,13.180304,7.582045,-5.598259,false,,,,false,,,,false,,,,false,,,,76.059850,63.669502,-12.390349
+01054023,Drage,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.132075,67.269439,6.137364
+01054024,Drelsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.021134,57.655955,-0.365179
+01054027,Ellhöft,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.772727,62.650602,-2.122125
+01054032,Fresendelf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,79.518072,85.714286,6.196213
+01054033,"Friedrichstadt, Stadt",true,26.667795,30.253025,3.585230,true,26.041314,25.925926,-0.115388,false,,,,false,,,,false,,,,false,,,,52.461322,52.159468,-0.301854
+01054034,Friedrich-Wilhelm-Lübke-Koog,false,,,,true,31.428571,37.388724,5.960153,false,,,,false,,,,false,,,,false,,,,71.241830,71.111111,-0.130719
+01054035,"Garding, Kirchspiel",false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,45.396825,55.518395,10.121569
+01054036,"Garding, Stadt",true,36.560748,27.781666,-8.779082,true,48.261682,34.849545,-13.412137,false,,,,false,,,,false,,,,false,,,,46.312025,46.209233,-0.102792
+01054037,Goldebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.335664,64.309764,-0.025900
+01054038,Goldelund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.611940,63.976945,6.365005
+01054041,Haselund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.616011,62.402089,3.786078
+01054042,Hattstedt,true,34.735812,25.649351,-9.086461,true,43.933464,46.969697,3.036233,false,,,,false,,,,false,,,,false,,,,55.253456,62.782294,7.528838
+01054043,Hattstedtermarsch,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.122271,65.384615,-2.737655
+01054045,Högel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.916442,66.292135,5.375693
+01054046,Hörnum (Sylt),false,,,,true,43.301611,46.347715,3.046104,false,,,,false,,,,false,,,,false,,,,63.005051,53.990025,-9.015026
+01054048,Holm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,86.301370,68.750000,-17.551370
+01054050,Hallig Hooge,true,37.630662,45.149254,7.518592,true,12.195122,8.582090,-3.613032,false,,,,false,,,,false,,,,false,,,,89.285714,85.057471,-4.228243
+01054052,Horstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.091483,60.624071,-2.467411
+01054054,Hude,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,87.323944,67.647059,-19.676885
+01054055,Humptrup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.253247,59.126365,-0.126882
+01054056,"Husum, Stadt",true,25.536876,17.826673,-7.710203,true,28.199779,28.480018,0.280239,true,18.934839,17.355186,-1.579652,true,5.019021,5.175123,0.156103,false,,,,false,,,,43.189908,47.064635,3.874727
+01054057,Immenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.057245,53.613445,1.556200
+01054059,Joldelund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.756757,59.450727,2.693970
+01054061,Kampen (Sylt),false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.620087,49.137931,-3.482156
+01054062,Karlum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.696133,59.776536,5.080404
+01054063,Katharinenheerd,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.392638,74.149660,1.757022
+01054065,Klanxbüll,false,,,,true,27.230047,17.065491,-10.164556,false,,,,false,,,,false,,,,false,,,,46.368039,49.822904,3.454866
+01054068,Klixbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.295337,56.807512,5.512175
+01054070,Koldenbüttel,true,33.877201,22.915718,-10.961483,false,,,,false,,,,false,,,,false,,,,false,,,,59.667093,63.307494,3.640400
+01054072,Kotzenbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.403509,77.070064,15.666555
+01054073,Ladelund,true,17.414861,12.750000,-4.664861,true,44.530444,47.750000,3.219556,false,,,,false,,,,false,,,,false,,,,57.857770,58.026756,0.168986
+01054074,Langeneß,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,83.193277,85.123967,1.930690
+01054075,Langenhorn,true,26.983299,48.875959,21.892660,true,34.107516,51.124041,17.016526,false,,,,false,,,,false,,,,false,,,,52.840698,56.231988,3.391290
+01054076,Leck,true,21.235357,20.042644,-1.192713,true,36.102236,23.923241,-12.178995,false,,,,false,,,,true,3.620873,6.865672,3.244798,false,,,,42.785208,44.589372,1.804163
+01054078,List,true,13.749658,28.624339,14.874681,true,49.055053,48.253968,-0.801085,true,10.873733,23.121693,12.247960,false,,,,false,,,,false,,,,48.537549,49.922840,1.385290
+01054079,Löwenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.694600,72.473868,0.779268
+01054080,Lütjenholm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.917603,65.232975,-0.684628
+01054083,Midlum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.731844,66.253870,4.522026
+01054084,Mildstedt,true,36.309767,37.272905,0.963138,true,26.174908,32.232858,6.057950,false,,,,true,10.523089,8.087517,-2.435572,false,,,,false,,,,56.201430,59.113150,2.911720
+01054085,Nebel,true,18.344094,24.127349,5.783255,true,32.396506,32.604526,0.208020,false,,,,false,,,,false,,,,false,,,,60.545906,60.718563,0.172657
+01054086,Neukirchen,false,,,,true,33.572508,7.220653,-26.351854,false,,,,false,,,,false,,,,false,,,,52.587117,51.524711,-1.062406
+01054087,Nieblum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.280922,54.268293,-4.012630
+01054088,"Niebüll, Stadt",true,30.803118,19.063545,-11.739572,true,41.324975,30.183946,-11.141028,false,,,,false,,,,false,,,,false,,,,43.163035,44.874800,1.711764
+01054089,Norddorf auf Amrum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,44.238683,55.670103,11.431420
+01054091,Nordstrand,true,38.831828,47.043805,8.211978,true,23.610939,30.623488,7.012549,true,19.415914,11.300726,-8.115188,false,,,,false,,,,false,,,,68.220983,64.366053,-3.854930
+01054092,Norstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.587393,59.337349,3.749957
+01054093,Ockholm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.120567,66.181818,3.061251
+01054094,Oevenum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.519789,57.142857,-0.376932
+01054095,Oldenswort,true,45.310654,55.347403,10.036749,true,31.230806,25.966327,-5.264479,false,,,,false,,,,false,,,,false,,,,64.324818,65.162455,0.837637
+01054096,Oldersbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.600683,58.402662,-10.198020
+01054097,Olderup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,49.859944,60.744986,10.885042
+01054098,Oldsum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.861111,60.310421,5.449310
+01054099,Ostenfeld (Husum),false,,,,true,59.908789,54.195011,-5.713778,false,,,,false,,,,false,,,,false,,,,63.685428,62.585551,-1.099877
+01054100,Osterhever,false,,,,true,27.483444,15.348837,-12.134606,false,,,,false,,,,false,,,,false,,,,65.365854,69.696970,4.331116
+01054101,Oster-Ohrstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.062992,51.386322,5.323330
+01054103,Pellworm,true,38.009457,31.190368,-6.819089,true,35.847782,37.074057,1.226275,false,,,,false,,,,false,,,,false,,,,79.837893,75.619048,-4.218845
+01054104,Poppenbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.874346,62.814070,-1.060275
+01054105,Ramstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.844920,62.140992,-4.703928
+01054106,Rantrum,true,33.802578,17.654766,-16.147812,true,23.049525,17.687520,-5.362005,false,,,,false,,,,false,,,,false,,,,63.213811,63.180964,-0.032847
+01054108,Reußenköge,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.727273,68.992248,4.264975
+01054109,Risum-Lindholm,true,24.692388,15.611567,-9.080821,true,28.946820,22.039859,-6.906960,false,,,,false,,,,false,,,,false,,,,55.156395,57.782516,2.626121
+01054110,Rodenäs,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.545455,62.716763,8.171308
+01054113,Sankt Peter-Ording,true,24.568651,12.882921,-11.685731,true,45.249089,26.584138,-18.664951,false,,,,true,10.036452,6.861099,-3.175353,false,,,,false,,,,47.868274,54.526188,6.657914
+01054116,Schwabstedt,true,7.074944,30.437100,23.362156,true,27.824385,46.162047,18.337662,false,,,,false,,,,false,,,,false,,,,59.523810,55.317248,-4.206562
+01054118,Schwesing,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.000000,57.375000,-2.625000
+01054119,Seeth,true,19.349722,19.685039,0.335317,false,,,,false,,,,false,,,,false,,,,false,,,,63.852814,64.244742,0.391928
+01054120,Simonsberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.683599,57.456140,-4.227459
+01054121,Sönnebüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.013575,57.383966,0.370392
+01054123,Sollwitt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.728395,61.240310,-0.488085
+01054124,Sprakebüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.671642,66.972477,1.300835
+01054125,Stadum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.025221,56.549935,-3.475286
+01054126,Stedesand,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.467742,58.998647,0.530905
+01054128,Struckum,true,29.213052,34.463046,5.249994,false,,,,false,,,,false,,,,false,,,,false,,,,60.975610,59.825871,-1.149739
+01054129,Süderende,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.320261,70.625000,3.304739
+01054131,Süderlügum,true,25.347346,18.269409,-7.077937,true,25.757036,28.071151,2.314115,false,,,,false,,,,false,,,,false,,,,49.747475,48.828125,-0.919350
+01054132,Südermarsch,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.723577,68.217054,10.493477
+01054134,Tating,false,,,,true,53.279516,35.296703,-17.982812,false,,,,false,,,,false,,,,false,,,,58.912037,54.390244,-4.521793
+01054135,Tetenbüll,false,,,,true,41.305796,40.699935,-0.605861,true,36.775483,31.626701,-5.148782,false,,,,false,,,,false,,,,60.326087,66.914498,6.588411
+01054136,Tinningstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.605911,55.102041,-4.503871
+01054138,"Tönning, Stadt",true,25.865801,18.950605,-6.915195,true,29.069264,19.757832,-9.311432,false,,,,false,,,,false,,,,false,,,,45.809500,51.501272,5.691772
+01054140,Tümlauer Koog,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.916667,65.591398,-7.325269
+01054141,Uelvesbüll,false,,,,true,27.861771,38.770053,10.908282,false,,,,false,,,,false,,,,false,,,,77.689243,69.387755,-8.301488
+01054142,Uphusum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.545455,59.932660,5.387205
+01054143,Utersum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.619718,63.095238,6.475520
+01054144,Viöl,false,,,,true,54.677060,52.486695,-2.190365,false,,,,false,,,,false,,,,false,,,,52.941176,56.201550,3.260374
+01054145,Vollerwiek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.594595,68.306011,13.711416
+01054146,Vollstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.744966,67.973856,6.228890
+01054148,Welt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.128205,66.091954,0.963749
+01054149,Wenningstedt-Braderup (Sylt),false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,49.086577,50.038432,0.951855
+01054150,Westerhever,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.674157,69.135802,8.461645
+01054152,Wester-Ohrstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.859544,50.969213,2.109669
+01054154,Westre,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.048544,56.622517,-8.426027
+01054156,Winnert,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.243740,58.026756,11.783016
+01054157,Wisch,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,74.157303,63.218391,-10.938913
+01054159,Wittbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.818182,62.462908,0.644726
+01054160,Wittdün auf Amrum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,41.520468,47.569956,6.049488
+01054161,Witzwort,false,,,,true,20.329500,39.219713,18.890213,false,,,,false,,,,false,,,,false,,,,68.358914,58.420441,-9.938472
+01054162,Wobbenbüll,true,52.951240,53.404430,0.453189,false,,,,false,,,,false,,,,false,,,,false,,,,69.836957,72.680412,2.843456
+01054163,Wrixum,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.887218,57.509881,2.622663
+01054164,"Wyk auf Föhr, Stadt",true,18.616435,14.149098,-4.467337,true,30.072703,25.277114,-4.795590,true,27.539106,23.234080,-4.305026,false,,,,false,,,,false,,,,48.305085,47.556742,-0.748342
+01054165,Galmsbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.120968,64.476386,-0.644582
+01054166,Emmelsbüll-Horsbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.936675,57.583893,1.647217
+01054167,Enge-Sande,false,,,,true,38.850987,36.461318,-2.389669,false,,,,false,,,,false,,,,false,,,,57.956989,60.149573,2.192583
+01054168,Sylt,true,13.606195,11.119199,-2.486995,true,38.089971,34.922657,-3.167314,true,13.016224,11.501365,-1.514859,false,,,,false,,,,false,,,,48.713153,43.324720,-5.388433
+01055001,Ahrensbök,true,31.882669,25.917355,-5.965313,true,43.174847,44.561983,1.387137,false,,,,true,11.004601,13.603306,2.598705,false,,,,false,,,,42.613065,49.006529,6.393463
+01055002,Altenkrempe,false,,,,true,29.294606,34.749621,5.455015,false,,,,false,,,,false,,,,false,,,,53.582888,57.773109,4.190222
+01055004,"Bad Schwartau, Stadt",true,29.475392,20.786517,-8.688875,true,40.535425,37.993206,-2.542218,true,20.808545,16.475046,-4.333499,true,7.166036,6.989809,-0.176226,false,,,,false,,,,43.320742,45.241547,1.920806
+01055006,Beschendorf,false,,,,true,33.998187,53.515302,19.517115,false,,,,false,,,,false,,,,false,,,,55.991285,63.265306,7.274021
+01055007,Bosau,true,15.566382,20.284612,4.718229,true,38.684531,51.519537,12.835006,true,17.588307,18.475639,0.887332,true,10.596833,8.152436,-2.444397,false,,,,false,,,,52.037293,54.869359,2.832066
+01055010,Dahme,false,,,,true,49.126331,39.568558,-9.557773,false,,,,false,,,,false,,,,false,,,,66.897148,58.757062,-8.140086
+01055011,Damlos,true,21.618357,30.959752,9.341395,true,17.512077,10.650155,-6.861922,false,,,,false,,,,false,,,,false,,,,57.751938,70.229008,12.477070
+01055012,"Eutin, Stadt",true,21.418847,16.795653,-4.623194,true,30.721525,33.393710,2.672185,true,19.240660,26.000329,6.759670,true,6.262290,6.784126,0.521836,false,,,,false,,,,46.099388,42.439024,-3.660364
+01055014,Göhl,false,,,,true,30.052539,38.512179,8.459640,false,,,,false,,,,false,,,,false,,,,56.263499,62.317328,6.053829
+01055015,Gremersdorf,true,28.113208,35.087288,6.974080,true,71.886792,64.912712,-6.974080,false,,,,false,,,,false,,,,false,,,,59.430894,57.554517,-1.876377
+01055016,Grömitz,true,22.127660,19.719423,-2.408237,true,41.624758,42.916420,1.291661,false,,,,true,14.564797,8.990318,-5.574479,false,,,,false,,,,45.596099,44.639438,-0.956661
+01055017,Großenbrode,true,15.703303,9.133108,-6.570195,true,56.463554,31.238239,-25.225315,false,,,,true,11.517654,6.473466,-5.044187,false,,,,false,,,,58.913934,64.931784,6.017849
+01055018,Grube,false,,,,true,58.300857,59.836066,1.535208,false,,,,false,,,,false,,,,false,,,,59.771429,72.807018,13.035589
+01055020,Harmsdorf,true,11.075949,10.404192,-0.671758,true,44.541139,53.517964,8.976825,false,,,,false,,,,false,,,,false,,,,57.271095,62.359551,5.088455
+01055021,"Heiligenhafen, Stadt",true,19.852114,15.534856,-4.317258,true,30.348819,30.438702,0.089883,true,10.239511,12.560096,2.320585,false,,,,false,,,,false,,,,41.613409,44.092184,2.478775
+01055022,Heringsdorf,true,46.016771,35.453426,-10.563345,true,53.983229,56.093558,2.110329,false,,,,false,,,,false,,,,false,,,,62.447257,58.531541,-3.915717
+01055023,Kabelhorst,true,63.230922,53.814852,-9.416069,true,36.769078,46.185148,9.416069,false,,,,false,,,,false,,,,false,,,,60.483871,60.326087,-0.157784
+01055024,Kasseedorf,true,51.089858,24.832064,-26.257793,true,48.910142,46.820421,-2.089721,false,,,,false,,,,false,,,,false,,,,65.104603,64.062500,-1.042103
+01055025,Kellenhusen (Ostsee),true,25.707223,27.514886,1.807662,true,33.205163,40.990285,7.785122,false,,,,false,,,,false,,,,false,,,,69.712526,53.098189,-16.614337
+01055027,Lensahn,true,28.265941,22.790329,-5.475612,true,36.411353,38.327388,1.916035,true,12.130638,13.535474,1.404836,false,,,,false,,,,false,,,,45.977842,43.873979,-2.103863
+01055028,Malente,true,21.219972,24.987691,3.767719,true,30.876119,40.965042,10.088923,false,,,,true,10.739520,9.724274,-1.015246,false,,,,false,,,,46.673169,44.905009,-1.768160
+01055029,Manhagen,false,,,,true,37.296621,58.926174,21.629554,false,,,,false,,,,false,,,,false,,,,58.412698,60.252366,1.839668
+01055031,Neukirchen,true,15.666456,17.839721,2.173265,true,44.440935,44.599303,0.158368,false,,,,false,,,,false,,,,false,,,,57.352941,54.100000,-3.252941
+01055032,"Neustadt in Holstein, Stadt",true,21.980818,17.604810,-4.376008,true,34.762184,35.861032,1.098848,true,20.219221,18.523468,-1.695753,true,7.398708,5.445131,-1.953577,false,,,,false,,,,38.925973,45.454545,6.528572
+01055033,"Oldenburg in Holstein, Stadt",true,28.383142,28.720930,0.337788,true,31.371648,32.950581,1.578934,true,18.927203,18.037791,-0.889412,false,,,,false,,,,false,,,,43.963111,47.448609,3.485498
+01055035,Ratekau,true,30.163761,19.944406,-10.219355,true,30.410284,31.810285,1.400001,true,15.530903,13.099375,-2.431529,false,,,,false,,,,false,,,,44.142003,45.945733,1.803731
+01055036,Riepsdorf,false,,,,true,51.847291,36.167552,-15.679738,false,,,,false,,,,false,,,,false,,,,69.675090,69.221835,-0.453255
+01055037,Schashagen,true,31.173313,15.809122,-15.364191,true,45.360429,25.612725,-19.747704,false,,,,false,,,,false,,,,false,,,,51.111111,57.086835,5.975724
+01055038,Schönwalde am Bungsberg,true,40.135569,42.842105,2.706536,true,59.864431,57.157895,-2.706536,false,,,,false,,,,false,,,,false,,,,50.329567,54.644550,4.314983
+01055039,Sierksdorf,true,26.992119,26.986862,-0.005257,true,45.709282,42.687917,-3.021365,false,,,,false,,,,false,,,,false,,,,54.571027,53.314326,-1.256700
+01055040,Stockelsdorf,true,26.875101,21.830986,-5.044115,true,41.179329,39.740403,-1.438926,true,12.878665,15.755316,2.876651,true,6.836222,8.119304,1.283082,false,,,,false,,,,43.297541,52.528989,9.231448
+01055041,Süsel,true,43.346191,36.933045,-6.413146,true,36.620058,43.220542,6.600484,false,,,,false,,,,false,,,,false,,,,54.718294,55.155597,0.437303
+01055042,Timmendorfer Strand,true,16.181983,11.119949,-5.062034,true,27.103528,26.407891,-0.695638,true,14.049373,13.951639,-0.097735,true,6.979449,8.829144,1.849695,false,,,,false,,,,57.097416,48.358862,-8.738553
+01055043,Wangels,false,,,,true,31.420152,27.560806,-3.859345,false,,,,false,,,,false,,,,false,,,,62.055974,64.968153,2.912179
+01055044,Scharbeutz,true,18.799335,15.813338,-2.985997,true,34.482759,26.790100,-7.692658,true,16.161197,12.903835,-3.257361,true,11.134192,9.673153,-1.461039,false,,,,false,,,,48.255007,51.944793,3.689786
+01055046,"Fehmarn, Stadt",true,27.972820,17.284605,-10.688215,true,27.840695,24.293785,-3.546909,true,10.192525,11.528955,1.336429,true,5.398263,4.502119,-0.896145,false,,,,false,,,,48.326640,49.198499,0.871859
+01056001,Appen,true,30.514306,22.279972,-8.234334,true,42.013763,35.083160,-6.930603,false,,,,true,26.494024,10.706861,-15.787163,false,,,,false,,,,53.515136,53.222558,-0.292578
+01056002,"Barmstedt, Stadt",true,21.334681,15.793103,-5.541578,true,24.595551,29.471264,4.875713,true,10.060667,12.091954,2.031287,false,,,,false,,,,false,,,,48.411644,52.738579,4.326935
+01056003,Bevern,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.920635,63.358779,3.438144
+01056004,Bilsen,false,,,,true,68.447001,44.767025,-23.679976,false,,,,false,,,,false,,,,false,,,,68.460389,73.163418,4.703030
+01056005,Bönningstedt,true,20.286523,23.708487,3.421964,true,38.468341,47.250923,8.782582,false,,,,false,,,,false,,,,false,,,,55.158517,54.041756,-1.116761
+01056006,Bokel,false,,,,true,41.820671,52.420917,10.600246,false,,,,false,,,,false,,,,false,,,,63.582677,66.147860,2.565183
+01056008,Bokholt-Hanredder,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.290687,58.016682,0.725995
+01056009,Borstel-Hohenraden,true,30.749161,17.768595,-12.980566,true,30.674618,25.106436,-5.568182,false,,,,false,,,,false,,,,false,,,,63.552759,64.746094,1.193335
+01056010,Brande-Hörnerkirchen,true,39.355169,22.749896,-16.605273,true,60.644831,40.833679,-19.811152,false,,,,false,,,,false,,,,false,,,,53.289474,61.460593,8.171119
+01056011,Bullenkuhlen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.175676,71.562500,8.386824
+01056013,Ellerbek,true,27.771472,14.315174,-13.456297,true,34.260310,35.091940,0.831630,false,,,,true,37.968218,29.902045,-8.066173,false,,,,false,,,,55.631013,60.412489,4.781476
+01056014,Ellerhoop,false,,,,true,52.620087,50.603202,-2.016885,false,,,,false,,,,false,,,,false,,,,56.339144,62.766798,6.427654
+01056015,"Elmshorn, Stadt",true,31.718791,25.179990,-6.538801,true,32.593427,36.606256,4.012829,true,18.327591,20.040963,1.713372,true,10.038431,10.358739,0.320308,false,,,,true,7.321760,7.814052,0.492292,39.016501,42.540058,3.523557
+01056016,Groß Nordende,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.559505,59.069767,4.510262
+01056017,Groß Offenseth-Aspern,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.863636,49.009901,0.146265
+01056018,Halstenbek,true,25.641814,21.460374,-4.181440,true,34.281322,38.735530,4.454208,true,28.332052,28.851291,0.519239,true,10.315142,10.952805,0.637663,false,,,,false,,,,46.442784,48.667374,2.224589
+01056019,Haselau,false,,,,true,56.881617,56.299213,-0.582404,false,,,,false,,,,false,,,,false,,,,66.050054,64.300847,-1.749207
+01056020,Haseldorf,true,19.226750,14.779208,-4.447542,true,36.557695,38.178263,1.620568,false,,,,false,,,,false,,,,false,,,,71.711831,66.975513,-4.736318
+01056021,Hasloh,true,45.027408,27.006999,-18.020409,true,23.786218,27.130506,3.344289,false,,,,false,,,,false,,,,false,,,,60.163934,55.597843,-4.566091
+01056022,Heede,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.890183,65.727700,-0.162483
+01056023,Heidgraben,true,42.736536,39.695900,-3.040636,true,36.215429,41.379310,5.163881,true,21.048035,18.924790,-2.123245,false,,,,false,,,,false,,,,60.231481,63.793890,3.562408
+01056024,Heist,true,20.000000,24.671241,4.671241,true,48.686030,47.598628,-1.087403,false,,,,false,,,,false,,,,false,,,,69.153395,53.952730,-15.200665
+01056025,Helgoland,true,33.227128,23.746019,-9.481109,true,39.030496,15.445860,-23.584636,false,,,,false,,,,false,,,,false,,,,57.488654,61.236802,3.748149
+01056026,Hemdingen,true,20.944013,24.421090,3.477077,true,30.976706,24.278589,-6.698117,false,,,,false,,,,false,,,,false,,,,60.199005,66.315789,6.116784
+01056027,Hetlingen,false,,,,true,44.078290,40.130373,-3.947918,false,,,,false,,,,false,,,,false,,,,69.638129,66.806723,-2.831406
+01056028,Holm,true,20.811436,19.571524,-1.239912,true,53.836452,56.482928,2.646476,true,25.352113,23.945548,-1.406565,false,,,,false,,,,false,,,,62.555721,61.510129,-1.045592
+01056029,Klein Nordende,true,17.178167,15.550670,-1.627497,true,15.777549,22.446532,6.668983,true,14.644696,15.030981,0.386285,false,,,,false,,,,false,,,,65.075842,64.734982,-0.340859
+01056030,Klein Offenseth-Sparrieshoop,true,30.321176,28.710801,-1.610374,false,,,,false,,,,false,,,,false,,,,false,,,,56.247489,65.019608,8.772119
+01056031,Kölln-Reisiek,true,54.351939,36.240602,-18.111338,true,45.648061,42.599356,-3.048705,false,,,,false,,,,false,,,,false,,,,61.901112,65.171019,3.269907
+01056032,Kummerfeld,true,30.673317,32.320248,1.646931,true,41.719231,43.239060,1.519829,true,27.607452,24.440692,-3.166760,false,,,,false,,,,false,,,,61.683278,62.675297,0.992019
+01056033,Seester,true,30.810983,36.734049,5.923066,true,69.189017,63.265951,-5.923066,false,,,,false,,,,false,,,,false,,,,70.722892,69.284877,-1.438015
+01056034,Langeln,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.396761,56.224066,-10.172695
+01056035,Lutzhorn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.670165,63.636364,3.966199
+01056036,Moorrege,false,,,,true,40.583639,47.345593,6.761954,true,11.577101,17.470507,5.893406,false,,,,false,,,,false,,,,62.482984,57.567711,-4.915273
+01056037,Neuendeich,true,52.978860,48.187212,-4.791648,true,47.021140,51.812788,4.791648,false,,,,false,,,,false,,,,false,,,,75.054230,78.537736,3.483506
+01056038,Osterhorn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.647059,55.714286,3.067227
+01056039,"Pinneberg, Stadt",true,24.451134,22.953463,-1.497671,true,33.489977,35.386269,1.896292,true,24.399736,20.496084,-3.903652,true,8.157721,9.768085,1.610364,false,,,,false,,,,40.456789,39.844425,-0.612364
+01056040,Prisdorf,true,20.778061,16.681179,-4.096882,true,44.987245,34.954596,-10.032649,false,,,,false,,,,false,,,,false,,,,66.074313,68.214091,2.139777
+01056041,"Quickborn, Stadt",true,23.338277,18.577924,-4.760353,true,37.009573,31.763071,-5.246501,true,18.835109,16.582470,-2.252638,true,20.817042,32.786057,11.969015,false,,,,false,,,,42.878968,45.233707,2.354740
+01056042,Raa-Besenbek,false,,,,true,62.404742,53.289474,-9.115268,false,,,,false,,,,false,,,,false,,,,57.700651,67.198178,9.497527
+01056043,Rellingen,true,20.357014,19.714848,-0.642166,true,54.471691,51.720747,-2.750944,true,17.454021,19.698460,2.244439,true,7.717274,8.865946,1.148672,false,,,,false,,,,46.935201,51.658650,4.723448
+01056044,"Schenefeld, Stadt",true,27.031144,21.603400,-5.427744,true,26.421801,32.141287,5.719486,true,28.266757,23.919097,-4.347660,true,4.400812,7.020372,2.619560,false,,,,false,,,,38.014697,44.165653,6.150957
+01056045,Seestermühe,true,47.255038,52.457935,5.202896,true,28.318277,29.363246,1.044970,false,,,,false,,,,false,,,,false,,,,71.370968,72.905759,1.534791
+01056046,Seeth-Ekholt,false,,,,true,45.950949,47.595357,1.644408,false,,,,false,,,,false,,,,false,,,,58.553547,63.063063,4.509516
+01056047,Tangstedt,true,30.668842,37.229660,6.560818,true,38.560359,62.770340,24.209981,false,,,,false,,,,false,,,,false,,,,54.610318,54.367390,-0.242928
+01056048,"Tornesch, Stadt",true,26.630789,17.414923,-9.215867,true,41.894977,39.575012,-2.319965,true,21.151337,20.035149,-1.116188,true,10.322896,5.863556,-4.459340,false,,,,false,,,,55.214399,54.577525,-0.636874
+01056049,"Uetersen, Stadt",true,28.751242,24.355005,-4.396237,true,32.543889,35.053320,2.509431,true,15.650878,18.249054,2.598176,true,8.264326,7.825937,-0.438389,false,,,,false,,,,41.153666,40.977521,-0.176145
+01056050,"Wedel, Stadt",true,23.179633,17.793128,-5.386506,true,27.648211,31.459299,3.811088,true,19.672423,23.152925,3.480502,true,11.162542,9.329370,-1.833173,false,,,,true,8.910450,5.735770,-3.174681,42.006546,42.825211,0.818664
+01056051,Westerhorn,false,,,,true,58.308645,52.758817,-5.549828,false,,,,false,,,,false,,,,false,,,,56.545455,56.615662,0.070207
+01057001,Ascheberg (Holstein),true,41.176471,36.383984,-4.792487,true,29.411765,44.292465,14.880700,false,,,,true,11.764706,6.217359,-5.547347,false,,,,false,,,,54.302554,59.302781,5.000227
+01057002,Barmissen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.223776,71.323529,-4.900247
+01057003,Barsbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.711656,68.623482,-0.088175
+01057004,Behrensdorf (Ostsee),false,,,,true,27.116402,34.723854,7.607452,false,,,,false,,,,false,,,,false,,,,66.604824,67.495560,0.890736
+01057005,Belau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.495114,69.230769,4.735655
+01057006,Bendfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.142857,77.844311,4.701454
+01057007,Blekendorf,true,49.647142,54.370504,4.723362,true,50.352858,45.629496,-4.723362,false,,,,false,,,,false,,,,false,,,,62.231183,62.913014,0.681831
+01057008,Bönebüttel,false,,,,true,40.664416,42.296487,1.632070,false,,,,false,,,,false,,,,false,,,,56.682298,61.225659,4.543361
+01057009,Bösdorf,true,25.000000,20.712882,-4.287118,true,43.750000,47.516138,3.766138,false,,,,false,,,,false,,,,false,,,,52.690009,56.199822,3.509813
+01057010,Boksee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.500000,65.679012,3.179012
+01057011,Bothkamp,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.038961,66.190476,5.151515
+01057012,Brodersdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.176991,67.919075,7.742084
+01057013,Dannau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.358566,65.139442,4.780876
+01057015,Dersau,true,20.615847,18.015102,-2.600744,true,33.834022,22.905430,-10.928592,false,,,,false,,,,false,,,,false,,,,66.576455,65.043695,-1.532759
+01057016,Dobersdorf,true,15.039578,6.206479,-8.833099,true,41.985488,26.127763,-15.857725,false,,,,false,,,,false,,,,false,,,,60.421053,67.276642,6.855589
+01057017,Dörnick,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,82.882883,76.777251,-6.105632
+01057018,Fahren,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.304348,73.214286,1.909938
+01057020,Fiefbergen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.287582,64.000000,11.712418
+01057021,Giekau,true,20.574008,20.024953,-0.549055,true,26.830055,36.930755,10.100700,false,,,,false,,,,false,,,,false,,,,65.513393,69.438202,3.924809
+01057022,Grebin,false,,,,true,28.284139,28.970390,0.686251,true,14.109633,20.356662,6.247029,false,,,,false,,,,false,,,,70.370370,63.262911,-7.107460
+01057023,Großbarkau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.863636,70.430108,-3.433529
+01057024,Großharrie,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.534884,75.912409,6.377525
+01057025,Heikendorf,true,18.208536,14.886889,-3.321647,true,31.484794,23.570907,-7.913887,true,23.894710,24.629044,0.734334,true,9.557884,13.354415,3.796531,false,,,,false,,,,61.633770,62.610988,0.977217
+01057026,Helmstorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.339768,56.985294,-11.354474
+01057027,Högsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.686047,61.016949,4.330903
+01057028,Höhndorf,false,,,,true,59.251559,61.330327,2.078768,false,,,,false,,,,false,,,,false,,,,71.345029,64.738292,-6.606737
+01057029,Hohenfelde,true,42.727273,42.348993,-0.378279,true,26.048951,15.536913,-10.512038,false,,,,false,,,,false,,,,false,,,,56.223176,58.324266,2.101090
+01057030,Hohwacht (Ostsee),false,,,,true,35.634261,44.439521,8.805261,false,,,,false,,,,false,,,,false,,,,64.136126,62.110961,-2.025165
+01057031,Honigsee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.878307,60.846561,3.968254
+01057032,Kalübbe,false,,,,true,34.835239,46.452477,11.617238,false,,,,false,,,,false,,,,false,,,,73.125000,68.498943,-4.626057
+01057033,Kirchbarkau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.648855,71.993912,6.345057
+01057034,Kirchnüchel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.500000,62.874251,0.374251
+01057035,Klamp,true,37.440476,31.750925,-5.689551,true,21.666667,23.366215,1.699548,false,,,,false,,,,false,,,,false,,,,61.809045,65.017668,3.208623
+01057037,Klein Barkau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.525346,68.303571,9.778226
+01057038,Kletkamp,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.097561,66.250000,10.152439
+01057039,Köhn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.326531,60.324484,-6.002047
+01057040,Krokau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.436782,54.341737,2.904955
+01057041,Krummbek,true,17.806935,20.107527,2.300592,false,,,,false,,,,false,,,,false,,,,false,,,,67.365269,65.151515,-2.213754
+01057042,Kühren,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.457944,55.121043,1.663099
+01057043,Laboe,true,16.469649,11.493793,-4.975856,true,26.421725,17.901482,-8.520243,true,28.274760,14.136964,-14.137796,false,,,,false,,,,false,,,,54.457275,58.839721,4.382446
+01057044,Lammershagen,true,55.288462,9.703947,-45.584514,false,,,,false,,,,false,,,,false,,,,false,,,,62.557078,68.899522,6.342444
+01057045,Lebrade,true,44.472362,37.020460,-7.451901,true,26.947236,27.046036,0.098800,false,,,,false,,,,false,,,,false,,,,65.985130,67.992048,2.006918
+01057046,Lehmkuhlen,false,,,,true,23.827193,23.247701,-0.579493,false,,,,false,,,,false,,,,false,,,,62.488647,58.730159,-3.758488
+01057047,Löptin,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.557377,58.264463,1.707086
+01057048,"Lütjenburg, Stadt",true,24.652971,22.569832,-2.083138,true,46.085508,43.156425,-2.929083,true,18.017768,16.675978,-1.341790,false,,,,false,,,,true,6.718490,7.737430,1.018940,45.205479,44.724409,-0.481070
+01057049,Lutterbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.776316,80.756014,13.979698
+01057050,Martensrade,true,37.373272,34.907782,-2.465490,false,,,,false,,,,false,,,,false,,,,false,,,,57.625000,58.004926,0.379926
+01057051,Mönkeberg,true,24.250230,20.967449,-3.282781,true,31.885925,31.332970,-0.552955,true,20.165593,16.493908,-3.671685,false,,,,false,,,,false,,,,59.644970,60.411160,0.766190
+01057052,Mucheln,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.240964,68.518519,8.277555
+01057053,Nehmten,true,21.216041,16.687117,-4.528925,false,,,,false,,,,false,,,,false,,,,false,,,,63.257576,69.260700,6.003125
+01057054,Nettelsee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.490085,56.804734,-2.685351
+01057055,Panker,false,,,,true,47.002342,55.093662,8.091320,false,,,,false,,,,false,,,,false,,,,59.235669,59.656301,0.420632
+01057056,Passade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.762646,68.771930,-3.990716
+01057057,"Plön, Stadt",true,24.000000,20.490816,-3.509184,true,32.000000,28.289672,-3.710328,true,20.000000,21.529660,1.529660,true,8.000000,8.566697,0.566697,false,,,,true,8.000000,4.531768,-3.468232,47.207325,48.520948,1.313623
+01057058,Pohnsdorf,false,,,,true,26.070764,41.101695,15.030931,false,,,,false,,,,false,,,,false,,,,66.759003,70.807453,4.048451
+01057059,Postfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.010870,72.776280,0.765411
+01057060,Prasdorf,true,29.641694,23.062382,-6.579312,false,,,,false,,,,false,,,,false,,,,false,,,,71.948052,69.021739,-2.926313
+01057062,"Preetz, Stadt",true,26.890756,22.005720,-4.885036,true,28.054299,28.280300,0.226002,true,22.624434,22.506257,-0.118178,true,9.082094,8.205220,-0.876874,false,,,,false,,,,46.772997,42.733059,-4.039938
+01057063,Probsteierhagen,false,,,,true,45.243930,33.889816,-11.354113,false,,,,false,,,,false,,,,false,,,,41.881813,56.652807,14.770994
+01057065,Rantzau,false,,,,true,43.058824,65.467626,22.408802,false,,,,false,,,,false,,,,false,,,,64.685315,56.597222,-8.088092
+01057066,Rastorf,false,,,,true,22.635727,21.843003,-0.792723,false,,,,false,,,,false,,,,false,,,,61.744023,61.119293,-0.624729
+01057067,Rathjensdorf,true,18.993994,10.601002,-8.392992,true,26.426426,33.055092,6.628665,false,,,,false,,,,false,,,,false,,,,68.397291,71.890547,3.493256
+01057068,Rendswühren,false,,,,true,39.227215,29.988053,-9.239163,false,,,,false,,,,false,,,,false,,,,69.065850,75.586854,6.521005
+01057069,Ruhwinkel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.609756,64.778325,-0.831431
+01057070,Schellhorn,false,,,,true,35.389831,5.642776,-29.747055,false,,,,false,,,,false,,,,false,,,,63.500785,64.775414,1.274629
+01057071,Schillsdorf,false,,,,true,58.310750,44.830700,-13.480050,false,,,,false,,,,false,,,,false,,,,57.916103,62.829404,4.913301
+01057072,Schlesen,true,34.307692,10.829208,-23.478484,false,,,,false,,,,false,,,,false,,,,false,,,,63.025210,73.180873,10.155663
+01057073,Schönberg (Holstein),true,33.867475,23.186222,-10.681253,true,36.899091,32.292788,-4.606303,false,,,,false,,,,false,,,,false,,,,49.451173,50.182657,0.731484
+01057074,Schönkirchen,true,29.409200,23.795860,-5.613340,true,37.758884,40.643575,2.884691,true,25.986484,27.731092,1.744609,true,6.845433,7.829473,0.984041,false,,,,false,,,,47.980734,49.838188,1.857454
+01057076,Schwartbuck,true,39.061676,35.313531,-3.748145,true,24.090669,19.047619,-5.043050,false,,,,false,,,,false,,,,false,,,,57.075472,60.089021,3.013549
+01057077,Selent,true,31.696878,18.304926,-13.391952,true,24.169184,24.749008,0.579823,true,12.009063,15.409760,3.400696,false,,,,false,,,,false,,,,57.314974,54.422789,-2.892186
+01057078,Stakendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.822943,65.284974,-5.537969
+01057079,Stein,true,35.893290,34.810952,-1.082338,true,59.013743,65.189048,6.175305,false,,,,false,,,,false,,,,false,,,,70.760234,66.713681,-4.046553
+01057080,Stolpe,false,,,,true,44.038156,43.060021,-0.978134,true,33.100159,23.070740,-10.029419,false,,,,false,,,,false,,,,57.924004,59.736595,1.812591
+01057081,Stoltenberg,true,62.274176,49.839915,-12.434262,false,,,,false,,,,false,,,,false,,,,false,,,,76.838235,81.749049,4.910814
+01057082,Tröndel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.321429,68.975904,-3.345525
+01057083,Tasdorf,true,22.355507,24.489796,2.134289,true,29.225736,29.291717,0.065981,false,,,,false,,,,false,,,,false,,,,68.403909,66.552901,-1.851008
+01057084,Wahlstorf,false,,,,false,,,,true,25.449317,26.781116,1.331799,false,,,,false,,,,false,,,,71.393643,74.739583,3.345940
+01057085,Wankendorf,true,29.249800,25.595450,-3.654351,true,47.126895,49.946676,2.819781,true,23.623304,24.457874,0.834570,false,,,,false,,,,false,,,,40.948100,48.193277,7.245178
+01057086,Warnau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.724138,69.716088,-2.008050
+01057087,Wendtorf,true,52.365475,59.971959,7.606484,true,36.655832,28.215913,-8.439919,false,,,,true,10.978693,11.812128,0.833435,false,,,,false,,,,66.866029,67.664671,0.798642
+01057088,Wisch,true,27.959414,30.581948,2.622534,false,,,,false,,,,false,,,,false,,,,false,,,,67.704918,68.718802,1.013884
+01057089,Wittmoldt,true,40.975610,33.409611,-7.565999,false,,,,false,,,,false,,,,false,,,,false,,,,80.689655,79.452055,-1.237600
+01057090,Fargau-Pratjau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.364742,60.426180,-9.938562
+01057091,"Schwentinental, Stadt",true,20.443305,20.166176,-0.277128,true,23.575746,27.194045,3.618299,true,27.257740,15.440540,-11.817199,true,5.550467,6.941319,1.390852,false,,,,false,,,,48.390745,52.133416,3.742672
+01058001,Achterwehr,true,31.415385,23.544548,-7.870837,true,35.784615,37.278868,1.494252,false,,,,false,,,,false,,,,false,,,,75.335775,74.201474,-1.134301
+01058003,Alt Duvenstedt,true,60.987654,48.861583,-12.126071,true,39.012346,48.337550,9.325204,false,,,,false,,,,false,,,,false,,,,57.188498,62.427372,5.238874
+01058004,Altenhof,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.313725,58.527132,-5.786594
+01058005,Altenholz,true,22.055728,18.670886,-3.384841,true,30.551084,31.690778,1.139694,true,18.303406,17.857143,-0.446263,true,7.034056,5.492767,-1.541289,false,,,,false,,,,53.919787,55.174111,1.254324
+01058007,Arpsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.573770,87.007874,21.434104
+01058008,Ascheffel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.914005,54.279015,-0.634990
+01058009,Aukrug,true,29.473483,35.643005,6.169522,true,39.221671,31.425344,-7.796327,false,,,,true,7.268218,6.062888,-1.205330,false,,,,false,,,,60.489182,60.347985,-0.141196
+01058010,Bargstall,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,75.396825,82.269504,6.872678
+01058011,Bargstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.236273,61.746032,3.509759
+01058012,Barkelsby,true,14.611787,17.101621,2.489834,true,12.217025,11.387900,-0.829125,false,,,,false,,,,false,,,,false,,,,66.247050,65.323855,-0.923195
+01058013,Beldorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.377049,63.223140,5.846091
+01058014,Bendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.158311,63.806971,3.648659
+01058015,Beringstedt,false,,,,true,58.523592,47.174301,-11.349291,false,,,,false,,,,false,,,,false,,,,56.655290,62.267343,5.612053
+01058016,Bissee,false,,,,true,46.892655,44.637681,-2.254974,false,,,,false,,,,false,,,,false,,,,78.676471,73.049645,-5.626825
+01058018,Blumenthal,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.695652,60.216998,3.521346
+01058019,Böhnhusen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.567568,74.089069,6.521501
+01058021,Bokel,true,26.150628,24.380704,-1.769924,false,,,,true,18.898187,18.709257,-0.188930,false,,,,false,,,,false,,,,62.226640,67.196819,4.970179
+01058022,Bordesholm,true,27.813329,28.509344,0.696015,true,29.717496,31.406635,1.689138,true,20.696114,24.279299,3.583185,false,,,,false,,,,false,,,,53.338473,58.274916,4.936443
+01058023,Borgdorf-Seedorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.812339,54.147465,-2.664874
+01058024,Borgstedt,false,,,,true,62.453445,55.121830,-7.331615,false,,,,false,,,,false,,,,false,,,,56.457850,56.262695,-0.195155
+01058025,Bornholt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.688312,66.455696,4.767385
+01058026,Bovenau,false,,,,true,30.525996,34.445844,3.919848,false,,,,false,,,,false,,,,false,,,,65.212650,66.081229,0.868579
+01058027,Brammer,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.130719,59.210526,-0.920193
+01058028,Bredenbek,true,40.933211,26.861042,-14.072169,true,18.499543,21.029777,2.530234,false,,,,false,,,,false,,,,false,,,,69.010630,65.217391,-3.793238
+01058029,Breiholz,true,16.306793,17.152808,0.846015,true,46.626181,39.007401,-7.618780,false,,,,false,,,,false,,,,false,,,,60.533104,62.883959,2.350855
+01058030,Brekendorf,true,10.712924,14.430380,3.717456,true,42.889821,41.518987,-1.370833,false,,,,false,,,,false,,,,false,,,,56.608187,61.028571,4.420384
+01058031,Brinjahe,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.811321,66.315789,-3.495531
+01058032,Brodersby,true,18.471721,11.747344,-6.724377,true,38.688327,23.848878,-14.839449,false,,,,false,,,,false,,,,false,,,,65.651438,62.913907,-2.737531
+01058033,Brügge,false,,,,true,52.875226,57.723577,4.848351,true,14.972875,32.994580,18.021705,false,,,,false,,,,false,,,,63.470874,67.660044,4.189170
+01058034,"Büdelsdorf, Stadt",true,35.413876,27.816448,-7.597429,true,35.306724,33.848930,-1.457794,false,,,,true,5.973748,5.465326,-0.508422,false,,,,false,,,,42.954006,44.573991,1.619985
+01058035,Bünsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.704918,72.800000,10.095082
+01058036,Christiansholm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.525253,52.709360,0.184107
+01058037,Dänischenhagen,true,30.277931,12.900492,-17.377440,true,28.879072,22.953043,-5.926029,false,,,,false,,,,false,,,,false,,,,63.255668,68.763693,5.508026
+01058038,Dätgen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,41.385768,56.072874,14.687107
+01058039,Damendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.617729,51.637280,-5.980449
+01058040,Damp,true,35.750198,36.550366,0.800167,true,45.541148,42.459201,-3.081948,false,,,,false,,,,false,,,,false,,,,54.414261,49.604430,-4.809831
+01058042,Dörphof,true,19.015847,6.857943,-12.157904,true,72.226856,56.123163,-16.103693,false,,,,false,,,,false,,,,false,,,,51.155116,55.000000,3.844884
+01058043,"Eckernförde, Stadt",true,21.747234,30.667878,8.920645,true,34.001165,22.853249,-11.147916,true,19.405941,15.470241,-3.935700,true,7.641235,6.440254,-1.200980,false,,,,false,,,,45.529178,47.746539,2.217361
+01058044,Ehndorf,true,28.903122,34.025204,5.122081,true,71.096878,65.974796,-5.122081,false,,,,false,,,,false,,,,false,,,,57.197697,63.513514,6.315817
+01058045,Eisendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.016393,68.312757,9.296364
+01058046,Ellerdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.000000,58.168317,-1.831683
+01058047,Elsdorf-Westermühlen,true,23.470784,13.491431,-9.979353,true,52.022670,62.036668,10.013998,false,,,,false,,,,false,,,,false,,,,58.534743,59.077599,0.542856
+01058048,Embühren,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.491525,63.157895,-6.333631
+01058049,Emkendorf,true,14.255677,17.766727,3.511050,true,33.894029,34.358047,0.464018,false,,,,false,,,,false,,,,false,,,,63.986313,61.196581,-2.789732
+01058050,Felde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.367816,61.538462,-2.829355
+01058051,Felm,true,29.144022,17.280643,-11.863379,true,44.157609,31.011386,-13.146222,false,,,,false,,,,false,,,,false,,,,57.743590,63.983051,6.239461
+01058052,Fleckeby,true,26.920263,16.582350,-10.337914,true,22.106803,18.493536,-3.613268,false,,,,false,,,,false,,,,false,,,,62.303096,64.116985,1.813889
+01058053,Flintbek,true,25.851829,22.945205,-2.906623,true,28.899656,29.592154,0.692498,true,16.473898,24.143836,7.669938,true,12.160050,6.662516,-5.497534,false,,,,false,,,,56.430659,55.571474,-0.859185
+01058054,Fockbek,true,37.723920,36.109963,-1.613957,true,40.379347,39.871848,-0.507499,false,,,,false,,,,false,,,,false,,,,50.169875,47.964126,-2.205750
+01058056,Friedrichsholm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.027190,52.201258,-8.825932
+01058057,Gammelby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.399093,69.931663,5.532570
+01058058,Gettorf,true,31.503440,19.470030,-12.033410,true,37.110233,44.508998,7.398765,true,18.635632,17.273629,-1.362003,true,12.750695,10.755278,-1.995417,false,,,,false,,,,63.529985,61.536020,-1.993965
+01058059,Gnutz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.500000,51.593625,-0.906375
+01058061,Gokels,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,47.948164,53.278689,5.330524
+01058062,Grauel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.720930,58.928571,-4.792359
+01058063,Grevenkrug,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.574713,45.744681,-4.830032
+01058064,Groß Buchwald,false,,,,true,53.643083,46.610956,-7.032127,false,,,,false,,,,false,,,,false,,,,69.435216,79.207921,9.772705
+01058065,Groß Vollstedt,true,48.800468,36.555254,-12.245214,false,,,,false,,,,false,,,,false,,,,false,,,,71.615202,72.117647,0.502445
+01058066,Groß Wittensee,false,,,,true,41.613588,30.277281,-11.336307,false,,,,false,,,,false,,,,false,,,,62.411348,65.796831,3.385484
+01058067,Güby,false,,,,true,50.852273,54.550725,3.698452,false,,,,false,,,,false,,,,false,,,,62.857143,59.626168,-3.230975
+01058068,Haale,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.812065,58.041958,7.229893
+01058069,Haby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.628692,69.246436,-4.382256
+01058070,Hamdorf,true,23.275862,24.767081,1.491219,true,38.563218,37.111801,-1.451417,false,,,,false,,,,false,,,,false,,,,57.469077,58.792651,1.323574
+01058071,Hamweddel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.918159,53.768844,1.850686
+01058072,Hanerau-Hademarschen,true,37.371134,32.055853,-5.315281,true,38.917526,44.117647,5.200121,false,,,,false,,,,false,,,,false,,,,48.555149,51.490733,2.935585
+01058073,Haßmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.406780,61.904762,-2.502018
+01058074,Heinkenborstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.371681,69.421488,3.049806
+01058076,Hoffeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.702290,75.000000,6.297710
+01058077,Hohenwestedt,true,36.940401,26.986097,-9.954304,true,42.872837,50.943396,8.070559,false,,,,true,20.186762,22.070506,1.883745,false,,,,false,,,,48.242960,51.058020,2.815060
+01058078,Hohn,true,12.866376,10.817717,-2.048659,true,61.415903,45.428734,-15.987169,false,,,,false,,,,false,,,,false,,,,56.299213,57.913998,1.614786
+01058080,Holtsee,true,35.723176,26.219097,-9.504079,true,48.618372,45.656611,-2.961760,false,,,,false,,,,false,,,,false,,,,68.317757,69.114878,0.797121
+01058081,Holzbunge,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.032680,64.983165,-0.049515
+01058082,Holzdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.100982,59.517045,3.416064
+01058083,Hütten,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.887006,68.750000,8.862994
+01058084,Hummelfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.572052,64.069264,2.497212
+01058085,Jahrsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.340909,65.536723,0.195814
+01058086,Jevenstedt,true,26.099254,20.662957,-5.436298,true,45.512985,44.616501,-0.896484,false,,,,false,,,,false,,,,false,,,,51.769753,55.397221,3.627468
+01058087,Karby,true,27.548006,20.264317,-7.283689,true,37.075332,38.839941,1.764609,false,,,,false,,,,false,,,,false,,,,66.875000,66.384778,-0.490222
+01058088,Klein Wittensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.529412,60.427807,6.898396
+01058089,Königshügel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.705882,61.904762,-2.801120
+01058090,Kosel,false,,,,true,52.163355,48.130047,-4.033309,true,28.410596,21.015725,-7.394871,false,,,,false,,,,false,,,,65.665236,69.841270,4.176034
+01058091,Krogaspe,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.729730,59.890110,-9.839620
+01058092,Kronshagen,true,26.024183,19.554641,-6.469543,true,38.404620,36.190120,-2.214500,true,17.704385,24.326347,6.621962,false,,,,false,,,,false,,,,56.502152,53.801866,-2.700286
+01058093,Krummwisch,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.003442,67.617450,9.614007
+01058094,Langwedel,true,22.681472,14.555603,-8.125869,false,,,,false,,,,false,,,,false,,,,false,,,,59.635812,58.916479,-0.719333
+01058096,Lindau,true,17.153525,15.034169,-2.119357,true,52.383044,56.844067,4.461023,false,,,,false,,,,false,,,,false,,,,64.937388,70.515098,5.577709
+01058097,Lohe-Föhrden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.866499,56.488550,7.622051
+01058098,Loop,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.333333,68.263473,9.930140
+01058099,Loose,true,12.299197,11.898625,-0.400571,true,49.297189,48.668385,-0.628804,false,,,,false,,,,false,,,,false,,,,55.572289,64.626866,9.054577
+01058100,Lütjenwestedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.053942,59.043659,1.989717
+01058101,Luhnstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.285714,65.749235,1.463521
+01058102,Goosefeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.967585,60.413355,0.445769
+01058103,Meezen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,79.166667,78.064516,-1.102151
+01058104,Melsdorf,true,34.086242,41.033275,6.947033,true,49.247091,58.966725,9.719634,false,,,,false,,,,false,,,,false,,,,61.619487,78.318584,16.699098
+01058105,Mielkendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.553415,57.450628,2.897213
+01058106,Mörel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.533981,59.534884,-5.999097
+01058107,Molfsee,true,18.918107,17.109874,-1.808232,true,34.680691,35.456607,0.775916,true,24.522915,25.520511,0.997596,true,12.366642,11.482169,-0.884473,false,,,,false,,,,61.388028,60.887002,-0.501026
+01058108,Mühbrook,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.894273,66.954644,5.060371
+01058109,Negenharrie,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.048544,69.902913,4.854369
+01058110,Neudorf-Bornstein,true,49.750913,39.961390,-9.789523,true,50.249087,60.038610,9.789523,false,,,,false,,,,false,,,,false,,,,64.397321,67.229730,2.832408
+01058111,Neu Duvenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.518519,65.420561,-3.097958
+01058112,Neuwittenbek,true,36.096977,27.681661,-8.415316,true,32.654894,37.212960,4.558066,false,,,,false,,,,false,,,,false,,,,63.095238,65.568544,2.473306
+01058113,Nienborstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.320312,55.688623,2.368310
+01058115,Nindorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.792079,68.274583,7.482503
+01058116,Noer,false,,,,true,77.458194,54.958857,-22.499337,false,,,,false,,,,false,,,,false,,,,67.385445,66.438356,-0.947089
+01058117,"Nortorf, Stadt",true,26.755297,22.820350,-3.934947,true,44.661404,47.456196,2.794792,true,19.069381,18.429386,-0.639995,true,9.513918,11.294068,1.780150,false,,,,false,,,,46.588111,44.903912,-1.684199
+01058118,Nübbel,true,16.588419,14.051441,-2.536978,true,18.379412,24.840325,6.460912,false,,,,false,,,,false,,,,false,,,,69.620253,70.555991,0.935737
+01058119,Oldenbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.243697,51.851852,-7.391846
+01058120,Oldenhütten,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.666667,82.031250,15.364583
+01058121,Osdorf,true,32.088480,52.074967,19.986486,true,38.279230,29.263722,-9.015509,false,,,,false,,,,false,,,,false,,,,58.400000,64.857143,6.457143
+01058122,Ostenfeld (Rendsburg),false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.265306,61.857708,-1.407599
+01058123,Osterby,false,,,,true,41.281019,41.023166,-0.257853,false,,,,false,,,,false,,,,false,,,,70.403023,71.126761,0.723738
+01058124,Osterrönfeld,true,15.876616,22.850242,6.973626,true,17.713767,28.285024,10.571257,false,,,,true,6.985711,14.903382,7.917671,false,,,,false,,,,55.260116,53.794694,-1.465421
+01058125,Osterstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.972973,57.971014,4.998042
+01058126,Ottendorf,false,,,,true,40.182149,51.059803,10.877654,false,,,,false,,,,false,,,,false,,,,71.330590,69.038208,-2.292382
+01058127,Owschlag,false,,,,true,34.732085,33.827699,-0.904386,false,,,,false,,,,false,,,,false,,,,56.337558,56.607495,0.269937
+01058128,Padenstedt,false,,,,true,29.533528,31.571219,2.037691,false,,,,false,,,,false,,,,false,,,,44.184397,52.902375,8.717978
+01058129,Prinzenmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.638889,73.722628,16.083739
+01058130,Quarnbek,false,,,,true,23.430251,25.274230,1.843979,true,54.809774,30.398197,-24.411577,false,,,,false,,,,false,,,,68.707015,70.068966,1.361950
+01058131,Rade b. Hohenwestedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.606061,64.634146,4.028086
+01058132,Rade b. Rendsburg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.214286,71.022727,-2.191558
+01058133,Reesdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.754098,74.166667,9.412568
+01058134,Remmels,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.444444,55.882353,1.437908
+01058135,"Rendsburg, Stadt",true,28.242857,17.987724,-10.255134,true,31.342857,28.249266,-3.093591,true,15.657143,15.052042,-0.605101,true,8.814286,6.298372,-2.515914,false,,,,true,7.442857,1.841473,-5.601384,32.411264,34.968530,2.557266
+01058136,Rickert,true,34.141860,34.889613,0.747753,false,,,,false,,,,false,,,,false,,,,false,,,,58.751394,61.791383,3.039990
+01058137,Rieseby,true,26.067787,24.716330,-1.351458,true,21.713971,24.222990,2.509019,true,13.447231,11.963493,-1.483738,false,,,,false,,,,false,,,,60.430009,64.279359,3.849350
+01058138,Rodenbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,73.902439,77.099237,3.196798
+01058139,Rumohr,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.064194,51.825843,-3.238351
+01058140,Schacht-Audorf,true,45.700847,42.704298,-2.996549,true,39.078081,40.619812,1.541731,false,,,,false,,,,false,,,,false,,,,52.582040,53.200993,0.618952
+01058141,Schierensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.287425,57.317073,1.029648
+01058142,Schinkel,true,19.534884,21.313202,1.778319,true,47.109635,46.839888,-0.269747,false,,,,false,,,,false,,,,false,,,,66.745283,65.113501,-1.631782
+01058143,Schmalstede,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.500000,65.486726,2.986726
+01058144,Schönbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.481928,60.106383,-10.375545
+01058145,Schönhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.799257,57.564576,-8.234681
+01058146,Schülldorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.300813,62.203390,0.902577
+01058147,Schülp b. Nortorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.815047,59.672619,-1.142428
+01058148,Schülp b. Rendsburg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.919875,58.735263,1.815387
+01058150,Schwedeneck,true,36.118252,21.341463,-14.776789,true,44.807198,34.990619,-9.816579,false,,,,false,,,,false,,,,false,,,,61.551433,65.337809,3.786376
+01058151,Seefeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.325879,57.236842,10.910964
+01058152,Sehestedt,true,30.093458,31.274281,1.180823,true,42.392523,34.615385,-7.777139,false,,,,false,,,,false,,,,false,,,,73.286713,70.454545,-2.832168
+01058153,Sören,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.320261,67.532468,0.212206
+01058154,Sophienhamm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.471698,56.818182,1.346484
+01058155,Stafstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.660377,63.666667,8.006289
+01058156,Steenfeld,false,,,,true,29.095074,34.458673,5.363598,false,,,,false,,,,false,,,,false,,,,69.858156,71.283784,1.425628
+01058157,Strande,true,20.120881,13.998127,-6.122754,true,55.410411,44.990637,-10.419775,false,,,,true,24.468707,15.870787,-8.597921,false,,,,false,,,,71.594684,72.801972,1.207288
+01058159,Tappendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.818182,69.534050,-0.284132
+01058160,Techelsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.702290,74.452555,5.750265
+01058161,Thaden,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.333333,66.063348,12.730015
+01058162,Thumby,true,41.016548,42.901554,1.885006,true,58.983452,57.098446,-1.885006,false,,,,false,,,,false,,,,false,,,,60.289855,66.369048,6.079193
+01058163,Timmaspe,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.618421,48.432432,-5.185989
+01058164,Todenbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.496503,58.420441,4.923938
+01058165,Tüttendorf,true,23.017978,17.821782,-5.196196,true,30.120837,44.224422,14.103585,false,,,,false,,,,false,,,,false,,,,60.566038,67.881773,7.315736
+01058166,Waabs,true,22.063037,30.463728,8.400691,true,47.167732,44.880624,-2.287108,false,,,,false,,,,false,,,,false,,,,60.179886,60.453809,0.273923
+01058167,Wapelfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.138075,51.773050,-1.365026
+01058168,Warder,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.867769,52.922078,-2.945691
+01058169,Wasbek,true,27.499612,18.637993,-8.861620,true,39.420245,43.478261,4.058016,false,,,,false,,,,false,,,,false,,,,55.989583,56.287425,0.297842
+01058170,Wattenbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.504216,58.605852,1.101636
+01058171,Westensee,true,32.942326,29.276054,-3.666272,true,36.402737,33.910103,-2.492634,false,,,,false,,,,false,,,,false,,,,63.573086,65.114444,1.541358
+01058172,Westerrönfeld,true,27.945508,22.331530,-5.613978,true,48.269514,39.227742,-9.041772,false,,,,false,,,,false,,,,false,,,,50.708550,54.267272,3.558722
+01058173,Windeby,true,36.843935,27.480124,-9.363810,true,24.748001,25.509851,0.761850,false,,,,false,,,,false,,,,false,,,,60.342857,63.288288,2.945431
+01058174,Winnemark,true,26.060606,38.649706,12.589100,true,73.939394,61.350294,-12.589100,false,,,,false,,,,false,,,,false,,,,55.377574,55.328798,-0.048776
+01058175,Ahlefeld-Bistensee,false,,,,true,47.762346,44.006309,-3.756037,false,,,,false,,,,false,,,,false,,,,71.464020,71.360382,-0.103638
+01059001,Alt Bennebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.932584,58.885017,4.952433
+01059002,"Arnis, Stadt",false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.383275,73.221757,2.838482
+01059005,Bergenhusen,false,,,,true,40.036563,35.467706,-4.568857,false,,,,false,,,,false,,,,false,,,,63.478261,66.991870,3.513609
+01059006,Böel,false,,,,true,34.512023,38.446215,3.934193,false,,,,false,,,,false,,,,false,,,,52.188006,62.254902,10.066895
+01059008,Böklund,false,,,,true,52.833380,43.307974,-9.525406,false,,,,false,,,,false,,,,false,,,,47.480916,47.702910,0.221994
+01059009,Börm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.751987,63.849765,0.097778
+01059010,Bollingstedt,false,,,,true,30.215517,21.779141,-8.436376,false,,,,false,,,,false,,,,false,,,,61.737678,67.469880,5.732202
+01059012,Borgwedel,true,29.319077,24.474089,-4.844988,true,21.102983,21.549513,0.446530,false,,,,false,,,,false,,,,false,,,,65.829146,66.924266,1.095120
+01059018,Busdorf,true,24.039774,21.452639,-2.587134,true,41.938000,37.514040,-4.423960,false,,,,false,,,,false,,,,false,,,,53.460621,57.850746,4.390126
+01059019,Dannewerk,true,8.070433,11.096520,3.026087,true,21.019809,27.117531,6.097722,false,,,,false,,,,false,,,,false,,,,52.260778,59.621451,7.360673
+01059020,Dörpstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.458333,51.552795,5.094462
+01059023,Ellingstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.890208,57.456829,6.566621
+01059024,Erfde,true,10.881034,21.152168,10.271134,true,60.986547,57.462904,-3.523643,false,,,,false,,,,false,,,,false,,,,68.663037,64.390519,-4.272518
+01059026,Fahrdorf,true,41.909578,36.135402,-5.774176,true,58.090422,47.842031,-10.248391,false,,,,false,,,,false,,,,false,,,,61.599256,62.056415,0.457159
+01059032,Geltorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.322981,73.015873,4.692892
+01059034,Grödersby,false,,,,true,50.828729,41.372141,-9.456588,false,,,,false,,,,false,,,,false,,,,73.469388,72.772277,-0.697111
+01059035,Groß Rheide,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.567568,56.521739,3.954172
+01059037,Havetoft,false,,,,true,25.206839,27.659574,2.452735,false,,,,false,,,,false,,,,false,,,,58.739255,56.363636,-2.375619
+01059039,Hollingstedt,false,,,,true,55.581614,50.706991,-4.874622,false,,,,false,,,,false,,,,false,,,,51.941748,58.900836,6.959089
+01059041,Hüsby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.709199,59.204713,5.495514
+01059042,Idstedt,true,31.610521,37.113951,5.503430,false,,,,false,,,,false,,,,false,,,,false,,,,60.351827,60.082873,-0.268954
+01059043,Jagel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.883495,55.529412,1.645917
+01059044,Jübek,false,,,,true,36.173583,41.743119,5.569537,false,,,,false,,,,false,,,,false,,,,51.930940,54.654788,2.723848
+01059045,"Kappeln, Stadt",true,24.083770,25.645214,1.561444,true,30.974498,27.540020,-3.434478,true,16.517480,15.109441,-1.408039,false,,,,false,,,,false,,,,44.362811,46.413559,2.050749
+01059049,Klappholz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,47.244094,52.525253,5.281158
+01059050,Klein Bennebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.623318,59.340659,1.717341
+01059051,Klein Rheide,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.761905,61.168385,6.406480
+01059053,Kropp,true,27.851173,22.297757,-5.553416,true,46.077110,41.536370,-4.540740,false,,,,false,,,,false,,,,false,,,,39.452258,45.368344,5.916087
+01059055,Loit,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.711712,57.777778,-3.933934
+01059056,Lottorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.111111,62.051282,0.940171
+01059057,Lürschau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,44.708423,56.644144,11.935721
+01059058,Meggerdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.967185,60.069444,-0.897740
+01059060,Mohrkirch,true,32.549020,35.842771,3.293752,true,42.352941,32.178548,-10.174394,false,,,,false,,,,false,,,,false,,,,62.958435,66.828676,3.870240
+01059062,Neuberend,true,48.517161,43.732092,-4.785069,false,,,,false,,,,false,,,,false,,,,false,,,,61.579509,61.220269,-0.359240
+01059063,Norderbrarup,true,25.639386,45.746269,20.106882,false,,,,false,,,,false,,,,false,,,,false,,,,63.082437,63.327370,0.244933
+01059065,Nottfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.521739,65.714286,9.192547
+01059067,Oersberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,44.308943,50.775194,6.466251
+01059068,Rabenkirchen-Faulück,true,38.782490,28.342674,-10.439816,false,,,,false,,,,false,,,,false,,,,false,,,,60.185185,59.484346,-0.700839
+01059070,Rügge,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.000000,73.333333,9.333333
+01059072,Saustrup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.841808,65.882353,2.040545
+01059073,Schaalby,true,30.129656,30.998101,0.868445,true,34.842560,33.656890,-1.185671,true,22.494340,17.092214,-5.402127,false,,,,false,,,,false,,,,62.577160,62.452107,-0.125053
+01059074,Scheggerott,false,,,,true,50.580645,52.213394,1.632749,false,,,,false,,,,false,,,,false,,,,56.957929,66.339869,9.381940
+01059075,"Schleswig, Stadt",true,22.478148,21.030747,-1.447401,true,26.576896,27.497538,0.920642,true,18.450272,15.198599,-3.251672,true,3.874321,4.530036,0.655715,false,,,,true,4.016064,2.998140,-1.017924,41.627794,44.830927,3.203133
+01059076,Schnarup-Thumby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.367816,63.288288,-1.079528
+01059077,Schuby,true,44.034833,38.476295,-5.558538,true,42.699565,26.445602,-16.253963,false,,,,false,,,,false,,,,false,,,,55.214724,58.793103,3.578380
+01059078,Selk,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.802244,66.325037,9.522793
+01059079,Silberstedt,true,21.276171,21.756689,0.480517,true,49.690927,43.849907,-5.841020,false,,,,false,,,,false,,,,false,,,,48.210412,54.783484,6.573072
+01059080,Steinfeld,false,,,,true,22.084722,25.035629,2.950908,false,,,,false,,,,false,,,,false,,,,60.698027,58.985507,-1.712520
+01059081,Stolk,true,10.625621,12.756264,2.130644,true,37.785501,30.387244,-7.398258,true,22.740814,18.542141,-4.198673,false,,,,false,,,,false,,,,54.862119,57.356948,2.494829
+01059082,Struxdorf,true,17.431803,12.224939,-5.206864,true,33.000665,38.997555,5.996890,false,,,,false,,,,false,,,,false,,,,63.031423,67.548501,4.517078
+01059083,Süderbrarup,true,23.222660,18.378107,-4.844553,true,38.041643,34.019583,-4.022060,false,,,,false,,,,false,,,,false,,,,48.680997,49.884045,1.203048
+01059084,Süderfahrenstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.157895,59.493671,-3.664224
+01059086,Taarstedt,true,24.846626,18.622565,-6.224061,true,52.191060,49.614862,-2.576199,false,,,,false,,,,false,,,,false,,,,58.753316,60.956175,2.202860
+01059087,Tetenhusen,false,,,,true,48.996832,48.808736,-0.188096,false,,,,false,,,,false,,,,false,,,,66.319896,70.812183,4.492287
+01059088,Tielen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.655602,69.915254,7.259653
+01059090,Tolk,true,46.558505,41.766883,-4.791623,true,53.441495,58.233117,4.791623,false,,,,false,,,,false,,,,false,,,,49.647059,53.103448,3.456389
+01059092,Treia,true,20.073496,12.928988,-7.144508,true,28.364722,22.533995,-5.830727,false,,,,false,,,,false,,,,false,,,,55.119323,58.441558,3.322236
+01059093,Uelsby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.025937,53.372434,0.346497
+01059094,Ulsnis,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.159052,71.103896,4.944844
+01059095,Wagersrott,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.960396,60.309278,6.348882
+01059096,Wohlde,false,,,,true,32.498042,31.752752,-0.745290,false,,,,false,,,,false,,,,false,,,,65.165877,59.545455,-5.620422
+01059097,Twedt,false,,,,true,60.766423,100.000000,39.233577,false,,,,false,,,,false,,,,false,,,,63.144963,59.125964,-4.018999
+01059098,Nübel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.345070,61.836184,8.491113
+01059102,Ahneby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.479042,71.604938,11.125896
+01059103,Ausacker,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.515284,61.625282,3.109998
+01059105,Böxlund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.352941,52.631579,-9.721362
+01059106,Dollerup,false,,,,true,28.358209,43.620547,15.262338,false,,,,false,,,,false,,,,false,,,,61.255924,60.000000,-1.255924
+01059107,Eggebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.232190,40.793340,-7.438850
+01059109,Esgrus,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.750000,55.032468,1.282468
+01059112,Gelting,true,15.336068,7.569913,-7.766155,true,36.194383,35.840566,-0.353817,false,,,,false,,,,false,,,,false,,,,62.691854,58.094714,-4.597140
+01059113,"Glücksburg (Ostsee), Stadt",true,18.240068,11.509949,-6.730119,true,36.885946,30.881779,-6.004167,true,18.987612,25.302380,6.314768,true,11.106365,9.305501,-1.800863,false,,,,false,,,,49.932705,53.836151,3.903446
+01059115,Großenwiehe,true,16.981664,21.327968,4.346303,true,40.507757,33.371659,-7.136099,false,,,,false,,,,false,,,,false,,,,52.575277,51.209527,-1.365750
+01059116,Großsolt,false,,,,true,40.974478,31.383738,-9.590740,false,,,,false,,,,false,,,,false,,,,54.016064,52.393796,-1.622268
+01059118,Grundhof,true,17.484536,18.849592,1.365056,true,54.804124,54.683249,-0.120875,false,,,,false,,,,false,,,,false,,,,67.688022,70.344828,2.656805
+01059120,Harrislee,true,29.832536,20.044994,-9.787542,true,32.894737,25.849269,-7.045468,false,,,,false,,,,false,,,,false,,,,44.065878,46.585391,2.519514
+01059121,Hasselberg,false,,,,true,44.765343,55.931418,11.166075,false,,,,false,,,,false,,,,false,,,,47.214076,59.633028,12.418951
+01059123,Hörup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.354037,62.768031,-0.586006
+01059124,Holt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.333333,61.904762,2.571429
+01059126,Hürup,false,,,,true,30.924855,20.176391,-10.748465,false,,,,false,,,,false,,,,false,,,,64.896755,64.959432,0.062677
+01059127,Husby,true,36.318096,34.640957,-1.677139,true,44.912336,40.026596,-4.885740,false,,,,false,,,,false,,,,false,,,,61.899791,58.451073,-3.448718
+01059128,Janneby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.268222,50.287356,-5.980865
+01059129,Jardelund,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.785124,55.186722,-0.598402
+01059131,Jerrishoe,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.461731,62.661955,6.200224
+01059132,Jörl,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,47.731092,52.878788,5.147695
+01059136,Kronsgaard,false,,,,true,43.288591,40.983607,-2.304984,false,,,,false,,,,false,,,,false,,,,68.544601,67.441860,-1.102740
+01059137,Langballig,true,11.210141,10.931385,-0.278755,true,46.504258,46.282285,-0.221973,false,,,,false,,,,false,,,,false,,,,65.629860,45.985401,-19.644459
+01059138,Langstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.856148,54.513889,2.657740
+01059142,Maasholm,true,52.999382,55.424675,2.425293,true,47.000618,44.575325,-2.425293,false,,,,false,,,,false,,,,false,,,,73.003802,67.095588,-5.908214
+01059143,Medelby,true,16.855822,15.101427,-1.754394,true,36.990332,29.188580,-7.801752,false,,,,false,,,,false,,,,false,,,,57.536042,59.237187,1.701145
+01059144,Meyn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.593918,49.265905,-3.328012
+01059145,Munkbrarup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.956522,63.130252,1.173730
+01059147,Nieby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,77.570093,64.655172,-12.914921
+01059148,Niesgrau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.350515,64.596273,6.245758
+01059149,Nordhackstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.381443,55.527638,1.146195
+01059151,Osterby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.440945,70.786517,-1.654428
+01059152,Pommerby,false,,,,true,46.489104,43.188406,-3.300698,false,,,,false,,,,false,,,,false,,,,79.562044,76.422764,-3.139280
+01059154,Rabel,false,,,,true,53.722180,57.184967,3.462787,false,,,,false,,,,false,,,,false,,,,63.779528,63.857678,0.078150
+01059155,Rabenholz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.245902,58.333333,-1.912568
+01059157,Ringsberg,false,,,,true,28.053097,24.721985,-3.331113,false,,,,false,,,,false,,,,false,,,,63.981043,60.180995,-3.800047
+01059158,Schafflund,true,26.733640,14.016854,-12.716786,false,,,,false,,,,false,,,,false,,,,false,,,,53.734827,57.835007,4.100179
+01059159,Sieverstedt,false,,,,true,49.865163,53.593381,3.728218,false,,,,false,,,,false,,,,false,,,,49.346880,55.580694,6.233814
+01059161,Sörup,true,22.597097,17.098446,-5.498651,true,51.647705,52.812731,1.165026,false,,,,true,10.278541,10.917839,0.639298,false,,,,false,,,,54.453782,58.599440,4.145658
+01059162,Sollerup,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.728395,59.287532,-2.440863
+01059163,Stangheck,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,79.032258,65.608466,-13.423792
+01059164,Steinberg,false,,,,true,31.946309,23.512276,-8.434032,false,,,,false,,,,false,,,,false,,,,61.088435,63.762102,2.673667
+01059167,Sterup,false,,,,true,45.000000,51.775305,6.775305,false,,,,false,,,,false,,,,false,,,,49.955237,56.871219,6.915981
+01059168,Stoltebüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.451613,67.244367,0.792755
+01059169,Süderhackstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.142857,55.944056,-1.198801
+01059171,Tarp,true,38.155605,35.274869,-2.880736,true,38.031320,35.689354,-2.341966,false,,,,false,,,,false,,,,false,,,,50.054933,51.971831,1.916898
+01059173,Wallsbüll,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.390564,57.178527,2.787963
+01059174,Wanderup,true,13.934949,12.283089,-1.651859,true,44.435587,48.553930,4.118343,false,,,,false,,,,false,,,,false,,,,52.093245,54.247191,2.153946
+01059176,Wees,true,22.081135,17.015238,-5.065897,true,35.372691,34.598148,-0.774544,false,,,,false,,,,false,,,,false,,,,56.734694,59.250000,2.515306
+01059177,Weesby,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.415730,67.847411,0.431681
+01059178,Westerholz,false,,,,true,29.094828,33.650476,4.555648,false,,,,false,,,,false,,,,false,,,,67.022901,64.220183,-2.802717
+01059179,Lindewitt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,49.088624,51.451513,2.362890
+01059182,Freienwill,false,,,,true,36.138500,50.478293,14.339793,false,,,,false,,,,false,,,,false,,,,56.733746,53.729072,-3.004675
+01059183,Handewitt,true,12.738561,11.578252,-1.160308,true,28.213382,30.310368,2.096985,true,14.417107,12.216597,-2.200510,false,,,,false,,,,false,,,,47.843095,49.521351,1.678256
+01059184,Oeversee,false,,,,true,47.536688,37.424850,-10.111838,false,,,,false,,,,false,,,,false,,,,49.142661,53.533629,4.390968
+01059185,Mittelangeln,true,24.314766,25.052301,0.737536,true,39.787798,36.898536,-2.889263,false,,,,true,6.424993,9.466527,3.041535,false,,,,false,,,,45.929672,50.047125,4.117453
+01059186,Steinbergkirche,true,19.286997,13.546922,-5.740074,true,36.291357,34.611504,-1.679853,false,,,,false,,,,false,,,,false,,,,60.882353,61.389474,0.507121
+01059187,Boren,false,,,,true,32.651570,35.591603,2.940033,false,,,,false,,,,false,,,,false,,,,51.996008,63.283582,11.287574
+01059188,Stapel,true,31.722156,15.811499,-15.910657,true,32.144668,24.927220,-7.217448,false,,,,false,,,,false,,,,false,,,,62.035225,60.967945,-1.067280
+01059189,Brodersby-Goltoft,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.627119,64.572426,-3.054693
+01060002,Alveslohe,false,,,,false,,,,true,34.419552,31.430236,-2.989316,false,,,,false,,,,false,,,,52.887931,54.691573,1.803642
+01060003,Armstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.672365,67.455621,2.783257
+01060004,"Bad Bramstedt, Stadt",true,28.145762,22.325493,-5.820269,true,32.373666,44.802731,12.429065,true,19.085967,15.288316,-3.797652,true,20.394604,17.583460,-2.811145,false,,,,false,,,,43.786424,45.508432,1.722008
+01060005,"Bad Segeberg, Stadt",true,23.148473,19.641156,-3.507317,true,27.764128,34.836456,7.072328,true,15.093015,17.370594,2.277579,false,,,,false,,,,false,,,,40.228928,45.255732,5.026804
+01060006,Bahrenhof,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.220994,53.005464,-7.215530
+01060007,Bark,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.776300,55.685815,0.909515
+01060008,Bebensee,false,,,,true,30.748075,33.831776,3.083701,false,,,,false,,,,false,,,,false,,,,71.192661,69.301471,-1.891190
+01060009,Bimöhlen,false,,,,true,60.019695,55.741022,-4.278673,false,,,,false,,,,false,,,,false,,,,51.612903,46.495327,-5.117576
+01060010,Blunk,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.453441,57.707510,3.254069
+01060011,Boostedt,true,28.053739,23.745732,-4.308007,true,53.791762,46.204360,-7.587402,false,,,,false,,,,false,,,,false,,,,54.010152,55.407141,1.396989
+01060012,Bornhöved,true,17.757271,14.840183,-2.917088,true,33.948546,34.956875,1.008329,false,,,,false,,,,false,,,,false,,,,46.804713,51.575630,4.770918
+01060013,Borstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.727273,65.765766,-6.961507
+01060015,Bühnsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.605263,50.000000,-4.605263
+01060016,Daldorf,false,,,,true,82.544379,100.000000,17.455621,false,,,,false,,,,false,,,,false,,,,55.555556,53.942652,-1.612903
+01060017,Damsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.843137,65.829146,7.986008
+01060019,Ellerau,true,26.607585,28.203569,1.595984,true,24.154988,25.162206,1.007218,false,,,,false,,,,false,,,,false,,,,53.757225,54.275604,0.518379
+01060020,Fahrenkrug,false,,,,true,53.177258,65.453558,12.276300,false,,,,false,,,,false,,,,false,,,,57.270694,53.828484,-3.442210
+01060021,Föhrden-Barl,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.073359,57.438017,-1.635343
+01060022,Fredesdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,45.614035,60.060976,14.446941
+01060023,Fuhlendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.284091,54.492754,4.208663
+01060024,Geschendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.257271,65.990991,10.733720
+01060025,Glasau,false,,,,true,55.784179,48.461538,-7.322641,false,,,,false,,,,false,,,,false,,,,56.375839,63.087248,6.711409
+01060026,Gönnebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.097087,61.538462,6.441374
+01060027,Großenaspe,false,,,,true,57.872460,61.083090,3.210629,false,,,,false,,,,false,,,,false,,,,55.485232,56.737013,1.251781
+01060028,Groß Kummerfeld,true,22.546070,17.925083,-4.620987,true,30.255735,33.281035,3.025300,false,,,,false,,,,false,,,,false,,,,57.134033,58.943348,1.809315
+01060029,Groß Niendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.743772,55.185185,-6.558587
+01060030,Groß Rönnau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.696721,68.025751,-2.670970
+01060031,Hagen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.010230,56.313131,0.302901
+01060033,Hardebek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.974359,57.582938,-1.391421
+01060034,Hartenholm,false,,,,true,29.026549,38.382218,9.355669,false,,,,false,,,,false,,,,false,,,,52.312704,51.908867,-0.403837
+01060035,Hasenkrug,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.483221,78.964401,6.481180
+01060036,Hasenmoor,false,,,,true,100.000000,100.000000,0.000000,false,,,,false,,,,false,,,,false,,,,47.185430,47.727273,0.541842
+01060037,Heidmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.992908,65.737052,4.744144
+01060038,Heidmühlen,false,,,,true,38.044759,34.751773,-3.292985,false,,,,false,,,,false,,,,false,,,,62.748344,63.122924,0.374579
+01060039,Henstedt-Ulzburg,true,18.864595,14.273905,-4.590690,true,27.816453,29.264260,1.447808,false,,,,true,10.040200,13.254340,3.214140,false,,,,false,,,,45.063103,47.888363,2.825260
+01060040,Hitzhusen,false,,,,true,100.000000,100.000000,0.000000,false,,,,false,,,,false,,,,false,,,,61.560419,56.954887,-4.605531
+01060041,Högersdorf,false,,,,true,41.304348,42.950392,1.646044,false,,,,false,,,,false,,,,false,,,,52.225519,54.790419,2.564900
+01060042,Hüttblek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.927711,57.738095,0.810384
+01060043,Itzstedt,true,30.601093,21.210160,-9.390933,true,30.703552,33.991264,3.287712,false,,,,true,18.425546,26.597638,8.172091,false,,,,false,,,,49.246231,52.124258,2.878026
+01060044,"Kaltenkirchen, Stadt",true,23.776694,21.056388,-2.720306,true,30.704557,30.107066,-0.597491,false,,,,true,13.569867,8.094218,-5.475649,true,6.204809,12.762313,6.557503,true,4.674626,3.097787,-1.576839,35.254692,39.166574,3.911883
+01060045,Kattendorf,true,38.531353,29.246607,-9.284746,true,61.468647,70.753393,9.284746,false,,,,false,,,,false,,,,false,,,,65.826331,63.687943,-2.138387
+01060046,Kayhude,false,,,,true,55.110837,54.225158,-0.885679,true,14.716749,14.918800,0.202051,false,,,,false,,,,false,,,,61.449580,65.342602,3.893022
+01060047,Kisdorf,false,,,,true,33.689490,43.960095,10.270606,false,,,,true,19.733973,13.771416,-5.962557,false,,,,false,,,,53.660856,55.548530,1.887674
+01060048,Klein Gladebrügge,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.570231,57.056452,-7.513779
+01060049,Klein Rönnau,false,,,,true,100.000000,100.000000,0.000000,false,,,,false,,,,false,,,,false,,,,53.228121,51.910249,-1.317872
+01060050,Krems II,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.214689,53.892216,-2.322474
+01060051,Kükels,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.323120,62.133333,-14.189786
+01060052,Latendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.895954,54.633205,-11.262749
+01060053,Leezen,false,,,,true,33.281972,36.916333,3.634361,false,,,,false,,,,false,,,,false,,,,51.944793,57.181029,5.236236
+01060054,Lentföhrden,false,,,,true,27.881396,32.402032,4.520635,false,,,,false,,,,false,,,,false,,,,48.231966,48.768015,0.536049
+01060056,Mönkloh,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,80.000000,81.278539,1.278539
+01060057,Mözen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.652742,58.567775,7.915033
+01060058,Nahe,true,25.023141,23.818350,-1.204791,true,28.586856,38.090825,9.503969,false,,,,false,,,,false,,,,false,,,,87.768347,59.090909,-28.677438
+01060059,Negernbötel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.818616,59.311981,5.493365
+01060060,Nehms,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.745380,56.734694,4.989314
+01060061,Neuengörs,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.506173,64.760433,0.254260
+01060062,Neversdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.844007,57.610475,2.766468
+01060063,"Norderstedt, Stadt",true,26.128027,19.995593,-6.132434,true,27.063054,28.834784,1.771729,true,13.430832,17.513128,4.082296,true,8.530328,7.179318,-1.351011,true,4.555263,8.732694,4.177432,true,5.159434,2.798281,-2.361153,32.743514,42.380724,9.637210
+01060064,Nützen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.659398,52.548656,-3.110742
+01060065,Oering,false,,,,false,,,,false,,,,true,15.459670,30.595138,15.135468,false,,,,false,,,,89.079422,62.829525,-26.249897
+01060066,Oersdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.043419,63.398693,-0.644726
+01060067,Pronstorf,false,,,,true,48.949729,45.021213,-3.928516,false,,,,false,,,,false,,,,false,,,,51.895044,57.028405,5.133361
+01060068,Rickling,true,22.847896,22.533849,-0.314047,true,52.459547,45.261122,-7.198425,false,,,,false,,,,false,,,,false,,,,43.097766,43.198858,0.101091
+01060069,Rohlstorf,true,26.041325,29.939107,3.897782,true,49.557232,70.060893,20.503661,false,,,,false,,,,false,,,,false,,,,71.858217,62.553191,-9.305025
+01060070,Schackendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.517241,57.990868,-7.526374
+01060071,Schieren,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.762712,70.222222,-0.540490
+01060072,Schmalensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.910448,66.825776,-1.084672
+01060073,Schmalfeld,true,20.294956,22.937092,2.642136,false,,,,false,,,,false,,,,false,,,,false,,,,59.088070,52.224254,-6.863816
+01060074,Schwissel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.752212,60.189573,4.437361
+01060075,Seedorf,false,,,,true,55.943575,61.733107,5.789532,false,,,,false,,,,false,,,,false,,,,54.159687,62.527115,8.367428
+01060076,Seth,true,30.863607,31.926121,1.062514,true,45.156150,32.717678,-12.438472,false,,,,false,,,,false,,,,false,,,,61.349693,59.987593,-1.362100
+01060077,Sievershütten,false,,,,true,37.952396,49.124767,11.172371,false,,,,false,,,,false,,,,false,,,,58.572950,55.974166,-2.598784
+01060079,Stipsdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.741573,62.234043,5.492470
+01060080,Stocksee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.549858,65.116279,7.566422
+01060081,Strukdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.645740,68.421053,-4.224687
+01060082,Struvenhütten,false,,,,true,32.145654,55.189341,23.043687,false,,,,false,,,,false,,,,false,,,,55.489965,64.126612,8.636647
+01060084,Stuvenborn,false,,,,true,67.682927,100.000000,32.317073,false,,,,false,,,,false,,,,false,,,,56.388889,48.493151,-7.895738
+01060085,Sülfeld,true,19.412331,13.850616,-5.561715,true,50.289017,42.687938,-7.601079,false,,,,false,,,,false,,,,false,,,,58.170181,56.618465,-1.551716
+01060086,Tarbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.870968,63.235294,4.364326
+01060087,Tensfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,40.464345,46.410684,5.946340
+01060088,Todesfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.479452,55.411255,-0.068197
+01060089,Trappenkamp,true,100.000000,66.283965,-33.716035,false,,,,false,,,,false,,,,false,,,,false,,,,30.376729,39.141836,8.765107
+01060090,Travenhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.558140,50.602410,-6.955730
+01060091,Traventhal,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.211538,58.588235,1.376697
+01060092,"Wahlstedt, Stadt",false,,,,true,45.295276,46.934548,1.639273,true,13.405512,11.702568,-1.702943,false,,,,false,,,,false,,,,38.189987,35.409142,-2.780845
+01060093,Wakendorf I,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,51.662404,59.897172,8.234768
+01060094,Wakendorf II,false,,,,true,39.091892,48.545455,9.453563,false,,,,false,,,,false,,,,false,,,,62.717770,60.068847,-2.648923
+01060095,Weddelbrook,false,,,,true,32.430579,26.451028,-5.979552,false,,,,false,,,,false,,,,false,,,,62.485346,69.742991,7.257645
+01060096,Weede,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,46.567506,52.205006,5.637500
+01060097,Wensin,false,,,,true,41.506494,46.414343,4.907849,false,,,,false,,,,false,,,,false,,,,46.567506,56.258412,9.690906
+01060098,Westerrade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.677083,59.517426,-1.159657
+01060099,Wiemersdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.239521,54.135894,-1.103627
+01060100,Winsen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.500000,62.865497,-4.634503
+01060101,Wittenborn,false,,,,true,83.720930,55.125523,-28.595407,false,,,,false,,,,false,,,,false,,,,48.711340,53.095238,4.383898
+01061001,Aasbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.636364,61.344538,-2.291826
+01061003,Agethorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.857143,71.084337,3.227194
+01061004,Altenmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.014493,74.869110,3.854617
+01061005,Auufer,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.565217,73.636364,4.071146
+01061006,Bahrenfleth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,48.125000,60.083160,11.958160
+01061007,Beidenfleth,false,,,,true,58.715221,63.137755,4.422534,false,,,,false,,,,false,,,,false,,,,65.578231,67.366947,1.788715
+01061008,Bekdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.886076,66.250000,-4.636076
+01061010,Bekmünde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.957447,66.129032,0.171585
+01061011,Besdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.487805,70.918367,10.430562
+01061012,Blomesche Wildnis,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.565217,57.989228,4.424011
+01061013,Bokelrehm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.467626,71.074380,5.606754
+01061014,Bokhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.200000,81.967213,22.767213
+01061015,Borsfleth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.187994,60.432767,3.244773
+01061016,Breitenberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.758621,62.237762,-0.520858
+01061017,Breitenburg,true,40.007075,34.839925,-5.167150,false,,,,false,,,,false,,,,false,,,,false,,,,55.025381,53.610287,-1.415094
+01061018,Brokdorf,true,15.159475,10.660409,-4.499066,true,56.697936,52.095206,-4.602730,false,,,,false,,,,false,,,,false,,,,61.899038,65.046296,3.147258
+01061019,Brokstedt,false,,,,true,64.764880,67.422349,2.657469,false,,,,false,,,,false,,,,false,,,,59.329867,57.696693,-1.633174
+01061022,Dägeling,false,,,,true,54.886364,53.189760,-1.696603,false,,,,false,,,,false,,,,false,,,,61.336516,62.110312,0.773796
+01061023,Dammfleth,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.200000,67.841410,-1.358590
+01061024,Drage,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,67.368421,74.871795,7.503374
+01061025,Ecklak,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.168539,77.734375,12.565836
+01061026,Elskop,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.180451,70.289855,-1.890596
+01061027,Engelbrechtsche Wildnis,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,49.143610,52.272727,3.129117
+01061028,Fitzbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.313609,65.749235,2.435626
+01061029,"Glückstadt, Stadt",true,19.159706,17.344105,-1.815601,true,27.638573,30.472103,2.833530,true,15.464439,14.011613,-1.452826,true,10.832701,10.729614,-0.103087,false,,,,false,,,,42.775120,44.378633,1.603514
+01061030,Grevenkop,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.403101,64.444444,2.041344
+01061031,Gribbohm,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.673797,60.335196,7.661399
+01061033,Hadenfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.379310,63.333333,-3.045977
+01061034,Heiligenstedten,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,55.650155,54.160247,-1.489908
+01061035,Heiligenstedtenerkamp,true,40.706012,29.644495,-11.061517,false,,,,false,,,,false,,,,false,,,,false,,,,67.772512,64.437194,-3.335318
+01061036,Hennstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.117647,61.960784,-2.156863
+01061037,Herzhorn,true,37.479936,40.226112,2.746177,false,,,,false,,,,false,,,,false,,,,false,,,,51.298701,60.470085,9.171384
+01061038,Hingstheide,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.811594,73.846154,-2.965440
+01061039,Hodorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.581921,65.476190,3.894270
+01061040,Hohenaspe,false,,,,true,100.000000,51.105088,-48.894912,false,,,,false,,,,false,,,,false,,,,52.976914,58.070388,5.093475
+01061041,Hohenfelde,false,,,,true,43.816794,30.158146,-13.658648,false,,,,false,,,,false,,,,false,,,,59.845560,65.116279,5.270719
+01061042,Hohenlockstedt,true,19.076402,24.070497,4.994095,true,27.514507,34.162240,6.647734,false,,,,false,,,,false,,,,false,,,,45.189104,46.991805,1.802700
+01061043,Holstenniendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,63.872832,61.213720,-2.659112
+01061044,Horst (Holstein),true,15.331010,12.398374,-2.932636,true,27.502904,29.065041,1.562137,true,18.350755,12.642276,-5.708479,false,,,,false,,,,false,,,,49.988842,57.774886,7.786044
+01061045,Huje,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.901639,72.103004,1.201365
+01061046,"Itzehoe, Stadt",true,21.898564,21.279655,-0.618909,true,31.546328,35.883742,4.337415,true,17.611817,17.828900,0.217083,true,8.180973,7.456095,-0.724878,false,,,,false,,,,37.678606,38.611731,0.933125
+01061047,Kaaks,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.106825,77.528090,5.421265
+01061048,Kaisborstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.151515,75.000000,9.848485
+01061049,"Kellinghusen, Stadt",true,17.987582,15.971555,-2.016027,true,26.186998,29.002499,2.815501,true,12.399562,11.781664,-0.617897,true,6.866326,7.745531,0.879206,false,,,,false,,,,46.972050,44.821237,-2.150813
+01061050,Kiebitzreihe,true,49.233238,48.640222,-0.593017,true,50.766762,51.359778,0.593017,false,,,,false,,,,false,,,,false,,,,56.004367,59.881847,3.877481
+01061052,Kleve,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.641975,62.551440,3.909465
+01061054,Krempdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,61.691542,58.883249,-2.808294
+01061055,"Krempe, Stadt",true,19.174136,23.456790,4.282654,false,,,,false,,,,false,,,,false,,,,false,,,,54.385054,48.650025,-5.735029
+01061056,Kremperheide,true,21.196003,17.389277,-3.806725,true,27.820761,27.707848,-0.112913,false,,,,false,,,,false,,,,false,,,,55.990220,58.532858,2.542638
+01061057,Krempermoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.000000,58.241758,0.241758
+01061058,Kronsmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,58.389262,57.333333,-1.055928
+01061059,Krummendiek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.463768,63.768116,-8.695652
+01061060,Kudensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,75.000000,89.108911,14.108911
+01061061,Lägerdorf,true,42.300806,35.139712,-7.161094,false,,,,false,,,,false,,,,false,,,,false,,,,41.275797,43.892243,2.616446
+01061062,Landrecht,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.897196,72.549020,-0.348177
+01061063,Landscheide,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.960396,56.338028,2.377632
+01061064,Lockstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.150376,72.388060,12.237684
+01061065,Lohbarbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.723577,59.696970,1.973392
+01061066,Looft,false,,,,true,33.476764,39.255814,5.779050,false,,,,false,,,,false,,,,false,,,,80.582524,72.340426,-8.242099
+01061067,Mehlbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.422969,56.534091,-0.888878
+01061068,Moordiek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.134021,75.238095,4.104075
+01061070,Moorhusen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,41.891892,51.612903,9.721011
+01061071,Mühlenbarbek,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.465116,65.400844,4.935728
+01061072,Münsterdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.861461,60.476788,-4.384673
+01061073,Neuenbrook,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.562044,50.276243,-4.285801
+01061074,Neuendorf b. Elmshorn,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.538051,61.931818,8.393767
+01061076,Nienbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.363636,65.714286,-0.649351
+01061077,Nortorf,true,31.235431,27.828054,-3.407377,true,39.471639,35.595777,-3.875863,false,,,,false,,,,false,,,,false,,,,67.681159,68.624642,0.943482
+01061078,Nutteln,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.687225,67.982456,-4.704769
+01061079,Oelixdorf,true,29.449454,29.150447,-0.299008,true,51.684860,54.339363,2.654503,false,,,,true,18.865686,16.510190,-2.355496,false,,,,false,,,,56.288820,59.968847,3.680027
+01061080,Oeschebüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,70.129870,74.842767,4.712897
+01061081,Oldenborstel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,72.277228,76.041667,3.764439
+01061082,Oldendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.822511,64.731183,3.908672
+01061083,Ottenbüttel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.438221,65.079365,2.641144
+01061084,Peissen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.355140,72.350230,5.995090
+01061085,Pöschendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.953488,57.272727,3.319239
+01061086,Poyenberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,66.568047,66.969697,0.401650
+01061087,Puls,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.707317,60.377358,3.670041
+01061088,Quarnstedt,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.377049,62.500000,5.122951
+01061089,Rade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.000000,65.116279,-2.883721
+01061091,Reher,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,71.224165,71.544715,0.320550
+01061092,Rethwisch,false,,,,true,43.314501,45.410156,2.095655,false,,,,false,,,,false,,,,false,,,,50.511247,52.642706,2.131459
+01061093,Rosdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.761905,60.655738,-4.106167
+01061095,Sankt Margarethen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,52.528090,54.913295,2.385205
+01061096,Sarlhusen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.935065,68.298368,3.363303
+01061097,Schenefeld,true,20.752896,20.070217,-0.682679,true,51.673102,47.981276,-3.691826,false,,,,false,,,,false,,,,false,,,,53.679458,54.976097,1.296639
+01061098,Schlotfeld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.205128,69.780220,1.575092
+01061100,Silzen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.217054,70.676692,2.459637
+01061101,Sommerland,false,,,,true,24.558140,38.246790,13.688650,true,18.186047,17.308766,-0.877280,false,,,,false,,,,false,,,,64.969136,64.447806,-0.521329
+01061102,Stördorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,78.703704,71.929825,-6.773879
+01061103,Störkathen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,64.935065,72.972973,8.037908
+01061104,Süderau,true,32.571033,26.816860,-5.754172,false,,,,false,,,,false,,,,false,,,,false,,,,54.299363,59.900990,5.601627
+01061105,Vaale,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,54.013875,54.708098,0.694223
+01061106,Vaalermoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.851240,55.737705,-2.113535
+01061107,Wacken,true,20.753237,12.395900,-8.357336,true,57.453903,47.581678,-9.872225,false,,,,false,,,,false,,,,false,,,,53.337492,59.859977,6.522484
+01061108,Warringholz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,76.829268,74.898785,-1.930483
+01061109,Westermoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,69.552239,72.835821,3.283582
+01061110,Wewelsfleth,true,28.774994,24.950100,-3.824894,true,41.714548,36.216456,-5.498092,false,,,,false,,,,false,,,,false,,,,57.864238,62.956669,5.092431
+01061112,Willenscharen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.060606,70.312500,14.251894
+01061113,"Wilster, Stadt",true,44.265635,44.449073,0.183439,true,55.734365,51.718392,-4.015973,false,,,,false,,,,false,,,,false,,,,49.850340,52.506163,2.655823
+01061114,Winseldorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.342960,55.234657,-10.108303
+01061115,Wittenbergen,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.737589,67.857143,11.119554
+01061116,Wrist,false,,,,true,50.036496,48.550224,-1.486272,false,,,,false,,,,false,,,,false,,,,48.920863,55.414980,6.494116
+01061117,Wulfsmoor,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.163987,64.117647,4.953660
+01061118,Kollmar,true,34.430283,26.820742,-7.609542,true,27.258893,30.918625,3.659732,false,,,,false,,,,false,,,,false,,,,62.536023,64.254703,1.718680
+01061119,Neuendorf-Sachsenbande,false,,,,true,27.196653,42.900000,15.703347,false,,,,false,,,,false,,,,false,,,,64.925373,64.945652,0.020279
+01062001,"Ahrensburg, Stadt",true,21.043997,21.640462,0.596465,true,31.528710,24.901247,-6.627463,true,21.625652,26.070792,4.445140,true,8.516033,14.878786,6.362753,false,,,,false,,,,49.873120,48.142978,-1.730142
+01062003,Badendorf,false,,,,true,40.781324,32.688077,-8.093247,false,,,,false,,,,false,,,,false,,,,57.746479,59.920107,2.173628
+01062004,"Bad Oldesloe, Stadt",true,20.119103,20.859574,0.740470,true,27.160206,28.958126,1.797921,true,15.249883,19.489559,4.239676,false,,,,false,,,,true,6.433909,4.054801,-2.379109,43.912186,47.501033,3.588847
+01062005,Bargfeld-Stegen,true,35.781487,41.299181,5.517694,true,34.688923,34.565619,-0.123303,false,,,,true,29.529590,24.135199,-5.394391,false,,,,false,,,,51.180124,56.496945,5.316821
+01062006,"Bargteheide, Stadt",true,19.189957,23.445725,4.255768,true,30.354207,35.951060,5.596853,true,23.568973,20.557690,-3.011284,true,6.590943,6.558543,-0.032400,false,,,,false,,,,51.492877,53.912517,2.419640
+01062008,Barnitz,false,,,,true,36.183575,47.081712,10.898137,false,,,,false,,,,false,,,,false,,,,56.699577,65.774648,9.075071
+01062009,Barsbüttel,true,26.368593,19.474656,-6.893937,true,24.056707,41.801765,17.745058,true,12.322792,13.030987,0.708195,true,3.882225,4.781449,0.899224,false,,,,false,,,,43.377299,46.531765,3.154466
+01062011,Braak,false,,,,true,48.449816,38.947876,-9.501940,false,,,,false,,,,false,,,,false,,,,45.432400,53.503185,8.070785
+01062014,Delingsdorf,true,19.118656,11.980324,-7.138332,true,29.852538,29.546176,-0.306362,false,,,,false,,,,false,,,,false,,,,54.171495,56.112335,1.940840
+01062016,Elmenhorst,true,16.498516,11.220311,-5.278205,true,20.949555,26.726727,5.777172,false,,,,false,,,,false,,,,false,,,,56.521739,58.565737,2.043998
+01062018,"Glinde, Stadt",true,32.813462,28.650295,-4.163167,true,38.025857,36.855130,-1.170726,true,18.099733,15.610128,-2.489606,true,11.060948,18.884447,7.823499,false,,,,false,,,,34.689142,38.608584,3.919442
+01062019,Grabau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,50.314465,66.012085,15.697619
+01062020,Grande,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,57.921635,62.931034,5.009399
+01062021,Grönwohld,true,36.356253,39.602122,3.245869,true,63.643747,60.397878,-3.245869,false,,,,false,,,,false,,,,false,,,,55.306799,57.518488,2.211689
+01062022,Großensee,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.962963,61.365142,-1.597820
+01062023,Großhansdorf,true,19.219840,16.732673,-2.487167,true,39.343839,41.831683,2.487844,true,27.873934,26.918317,-0.955618,true,13.562387,14.517327,0.954940,false,,,,false,,,,54.498582,56.782334,2.283752
+01062025,Hamberge,false,,,,true,100.000000,100.000000,0.000000,false,,,,false,,,,false,,,,false,,,,45.712155,52.945253,7.233098
+01062026,Hamfelde,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.148515,59.665871,-0.482644
+01062027,Hammoor,false,,,,true,43.292683,33.232811,-10.059872,false,,,,false,,,,false,,,,false,,,,63.964844,61.094527,-2.870316
+01062031,Heidekamp,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.521739,57.919622,1.397883
+01062032,Heilshoop,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.866953,62.340426,5.473473
+01062035,Hoisdorf,true,10.083181,9.504550,-0.578631,true,31.507405,21.314459,-10.192946,false,,,,true,7.892067,4.833165,-3.058903,false,,,,false,,,,61.155914,66.848196,5.692282
+01062036,Jersbek,false,,,,true,15.512662,18.969731,3.457070,false,,,,false,,,,false,,,,false,,,,62.637363,58.271936,-4.365427
+01062039,Klein Wesenberg,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.480127,68.621236,6.141109
+01062040,Köthel,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,65.277778,64.664311,-0.613467
+01062045,Lütjensee,false,,,,true,69.226609,100.000000,30.773391,false,,,,false,,,,false,,,,false,,,,52.689704,50.609982,-2.079723
+01062046,Meddewade,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,62.957938,54.557823,-8.400114
+01062048,Mönkhagen,false,,,,true,37.395543,43.023256,5.627713,false,,,,false,,,,false,,,,false,,,,58.245614,55.272727,-2.972887
+01062050,Neritz,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,68.402778,72.260274,3.857496
+01062051,Nienwohld,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,56.723716,54.975124,-1.748592
+01062053,Oststeinbek,true,29.646159,21.082090,-8.564069,true,37.838699,39.908412,2.069713,false,,,,false,,,,false,,,,false,,,,47.886168,45.624385,-2.261782
+01062056,Pölitz,true,41.999254,32.500000,-9.499254,true,58.000746,67.500000,9.499254,false,,,,false,,,,false,,,,false,,,,54.913880,59.346272,4.432391
+01062058,Rausdorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,74.129353,66.492147,-7.637207
+01062059,Rehhorst,true,41.708861,31.460023,-10.248838,true,27.151899,33.256083,6.104185,false,,,,false,,,,false,,,,false,,,,58.735441,64.169381,5.433940
+01062060,"Reinbek, Stadt",true,20.651849,18.710327,-1.941521,true,27.549088,31.093199,3.544111,true,22.117014,22.821159,0.704145,true,17.003887,16.171285,-0.832603,false,,,,false,,,,45.762560,45.251422,-0.511138
+01062061,"Reinfeld (Holstein), Stadt",true,25.336427,23.907679,-1.428748,true,33.395205,34.809116,1.413911,true,19.798917,18.652925,-1.145992,false,,,,false,,,,false,,,,47.685496,52.096220,4.410724
+01062062,Rethwisch,false,,,,true,40.979541,34.495302,-6.484240,false,,,,false,,,,false,,,,false,,,,60.707071,63.551402,2.844331
+01062065,Rümpel,true,22.938572,24.288725,1.350153,true,48.339790,40.964173,-7.375617,false,,,,false,,,,false,,,,false,,,,57.020873,60.938967,3.918094
+01062069,Siek,true,34.973688,18.397112,-16.576576,true,50.718248,51.725632,1.007384,false,,,,false,,,,false,,,,false,,,,59.412955,57.192982,-2.219973
+01062071,Stapelfeld,true,22.973960,12.374946,-10.599014,true,37.405695,33.101348,-4.304346,false,,,,false,,,,false,,,,false,,,,47.606019,51.948925,4.342906
+01062076,Tangstedt,true,16.278267,16.684378,0.406111,true,35.957190,38.593695,2.636505,true,18.850337,24.406660,5.556323,true,13.654410,19.695360,6.040949,false,,,,false,,,,60.560748,59.405190,-1.155557
+01062078,Todendorf,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,47.596154,52.799228,5.203074
+01062081,Tremsbüttel,true,12.963540,31.978932,19.015391,false,,,,false,,,,false,,,,false,,,,false,,,,64.647713,59.053103,-5.594610
+01062082,Trittau,true,25.412236,17.701112,-7.711124,true,36.677454,36.369499,-0.307956,true,16.258283,17.443173,1.184889,false,,,,false,,,,false,,,,48.960771,47.004104,-1.956667
+01062083,Westerau,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,59.603659,63.734568,4.130909
+01062086,Witzhave,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,53.343582,52.352049,-0.991533
+01062087,Zarpen,true,39.548513,34.891917,-4.656596,true,19.578902,23.966165,4.387264,false,,,,false,,,,false,,,,false,,,,61.475410,60.356537,-1.118873
+01062088,Brunsbek,false,,,,true,36.723295,41.169508,4.446212,false,,,,false,,,,false,,,,false,,,,55.754652,53.453039,-2.301613
+01062089,Lasbek,true,65.818547,56.220794,-9.597753,true,34.181453,43.779206,9.597753,false,,,,false,,,,false,,,,false,,,,54.435107,55.788514,1.353407
+01062090,Ammersbek,true,27.948233,22.143156,-5.805077,true,23.207794,27.026650,3.818856,true,25.388978,24.766290,-0.622688,true,13.639668,12.529650,-1.110019,false,,,,false,,,,45.943268,48.749533,2.806266
+01062091,Steinburg,true,25.668874,25.153689,-0.515186,true,45.827815,60.655738,14.827923,false,,,,false,,,,false,,,,false,,,,59.004329,61.477919,2.473590
+01062092,Travenbrück,true,19.794095,18.671355,-1.122740,true,32.828283,31.976314,-0.851969,false,,,,false,,,,false,,,,false,,,,57.594502,60.107817,2.513315
+01062093,Feldhorst,false,,,,false,,,,false,,,,false,,,,false,,,,false,,,,60.416667,65.021459,4.604793
+01062094,Wesenberg,false,,,,true,53.290809,50.612028,-2.678781,false,,,,false,,,,false,,,,false,,,,49.812453,54.752852,4.940399
